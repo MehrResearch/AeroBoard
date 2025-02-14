@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: space-between;">
-    <img src="renders/image.jpg" alt="AeroBoard assembled" width="48%">
-    <img src="renders/pcb.png" alt="AeroBoard PCB" width="48%">
+<div style="display: flex; justify-content: space-around;">
+    <img src="renders/image.jpg" alt="AeroBoard assembled" height="350px">
+    <img src="renders/pcb.png" alt="AeroBoard PCB" height="350px">
 </div>
 
 # *AeroBoard*
