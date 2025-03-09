@@ -4,6 +4,9 @@
 </div>
 
 # *AeroBoard*
+
+[![DOI](https://zenodo.org/badge/932737698.svg)](https://doi.org/10.5281/zenodo.14995912)
+
 This repository contains the KiCad project for *AeroBoard*, a Raspberry Pi Pico-based, multichannel controller for programmable aerosol chemistry. In addition to schematic and layout files, we have included baseline bill of materials (BOM) and component placement list (CPL) files for ordering pre-assembled boards or to populate the PCB after manufacture.
 
 If you run into any issues, please feel free to [contact us](mailto:Hessam.Mehr@glasgow.ac.uk).
