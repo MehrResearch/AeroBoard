@@ -112,7 +112,6 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
-			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -968,18 +967,6 @@
 			(layer "F.Fab")
 			(uuid "a10cd860-a875-4b51-a16a-2409bcc54a1d")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 1 1.5 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "84071a5b-c96a-49a6-a080-4d3fc6ce3f78")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole roundrect
 			(at 0 0 270)
 			(size 1.2 1.75)
@@ -1648,18 +1635,6 @@
 			)
 			(layer "F.Fab")
 			(uuid "13601470-f426-4118-b2fa-58a99fc2702a")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 1 1.5 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "428e64ad-fba6-4abc-9ade-fb12f7f83e4d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0 270)
@@ -4358,18 +4333,6 @@
 			(layer "F.Fab")
 			(uuid "71960aa9-d02a-42ff-82bf-090a008c6f41")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 1 1.5 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "69aad710-8e3d-4edb-bc01-dd06c0baaaa3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole roundrect
 			(at 0 0 270)
 			(size 1.2 1.75)
@@ -6082,18 +6045,6 @@
 			(layer "F.Fab")
 			(uuid "95d55981-8ee0-4a42-a2ca-731a625b6520")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 1 1.5 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5ac49556-ae54-4278-986d-3f2be55147c6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole roundrect
 			(at 0 0 270)
 			(size 1.2 1.75)
@@ -7148,18 +7099,6 @@
 			(layer "F.Fab")
 			(uuid "8cb8f647-4d71-463c-a85f-2e0129bf73d8")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 1 1.5 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "da6b9b88-edb9-493a-8680-8395bf6c821f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole roundrect
 			(at 0 0 270)
 			(size 1.2 1.75)
@@ -7676,7 +7615,7 @@
 			(uuid "e0f4ea53-1193-485a-bde3-a5ddf3f89e21")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645.wrl"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645Sx43SMTR92.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14005,18 +13944,6 @@
 			(layer "F.Fab")
 			(uuid "d98a3d7a-b3b7-4092-a22f-caaaaf38c4bc")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 1 1.5 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "23e1a160-58b8-4880-ad32-85814b3f9d7c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole roundrect
 			(at 0 0 270)
 			(size 1.2 1.75)
@@ -15066,18 +14993,6 @@
 			)
 			(layer "F.Fab")
 			(uuid "971ee2d3-ba7f-4df4-95ae-b5d90568fcc0")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 1 1.5 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "092bc02f-5dae-4e2d-8f64-c7b626e8bb04")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0 270)
@@ -16140,18 +16055,6 @@
 			)
 			(layer "F.Fab")
 			(uuid "cd641e3a-6c03-4360-9990-6d205b08954e")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 1 1.5 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bf465859-f00a-4ece-a225-7b7c06eb0d94")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0 270)
@@ -18491,18 +18394,6 @@
 				)
 			)
 		)
-		(fp_text user "GP27"
-			(at 13.054 -3.8 45)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "1b1551b5-7af1-4834-94ce-6ceb60ce4eaa")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-			)
-		)
 		(fp_text user "GP2"
 			(at -12.9 -16.51 45)
 			(layer "F.SilkS")
@@ -18712,18 +18603,6 @@
 				)
 			)
 		)
-		(fp_text user "GP26"
-			(at 13.054 -1.27 45)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "9636149a-18c6-4831-adb7-a4e43d7a83e1")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-			)
-		)
 		(fp_text user "VBUS"
 			(at 13.3 -24.2 45)
 			(layer "F.SilkS")
@@ -18907,18 +18786,6 @@
 			(effects
 				(font
 					(size 0.8 0.8)
-					(thickness 0.15)
-				)
-			)
-		)
-		(fp_text user "Copper Keepouts shown on Dwgs layer"
-			(at 0.1 -30.2 0)
-			(layer "Cmts.User")
-			(hide yes)
-			(uuid "6f2fa68b-fa08-4345-ad6c-48d93450afa9")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21596,7 +21463,7 @@
 			(uuid "3918e860-a955-41cf-bfda-c6d522d0d502")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical.wrl"
+		(model "${KIPRJMOD}/JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21604,7 +21471,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -26652,18 +26519,6 @@
 			)
 			(layer "F.Fab")
 			(uuid "76678b0b-b124-491e-b669-8eb0e576f049")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 1 1.5 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ffa8e6c0-9610-4b56-a89a-f4c2649984b9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
 		)
 		(pad "1" thru_hole roundrect
 			(at 0 0 270)

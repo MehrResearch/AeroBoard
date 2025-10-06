@@ -36,3 +36,6 @@ fp-info-cache
 # Windows
 Thumbs.db
 desktop.ini
+
+# 3D renders of assembled board
+aeroboard.step
