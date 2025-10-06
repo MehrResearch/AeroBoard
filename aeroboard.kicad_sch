@@ -6,6 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Aeroboard")
+		(rev "v0.4")
 	)
 	(lib_symbols
 		(symbol "Connector:Barrel_Jack_Switch"
@@ -1199,6 +1200,15 @@
 				)
 			)
 			(property "Description" "Light emitting diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=K 2=A"
 				(at 0 0 0)
 				(effects
 					(font
@@ -7013,6 +7023,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 73.66 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "52f1d2e9-4c36-4788-a030-f77c5fbd5754")
 		)
@@ -7073,6 +7092,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 73.66 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
 			(at 73.66 181.61 0)
 			(effects
 				(font
@@ -7216,6 +7244,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 180.34 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
 			(at 180.34 59.69 0)
 			(effects
 				(font
@@ -8267,6 +8304,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 73.66 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b84b7a0d-157e-46a1-bae7-ed18bc809810")
 		)
@@ -8596,7 +8642,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:RPi_Pico_SMD_TH"
+		(property "Footprint" "RPi_Pico:RPi_Pico_SMD_TH"
 			(at 154.94 77.47 90)
 			(effects
 				(font
@@ -9925,6 +9971,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 73.66 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "49c04d8a-927d-4b51-a3a7-1d81c5b2a917")
 		)
@@ -10842,10 +10897,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "69edf15a-4980-4e63-9e68-345bcb1ddadf")
 		(property "Reference" "R13"
-			(at 114.3 81.2799 0)
+			(at 114.046 82.042 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10854,7 +10908,7 @@
 			)
 		)
 		(property "Value" "51k"
-			(at 114.3 83.8199 0)
+			(at 114.046 84.582 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11037,6 +11091,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 73.66 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
 			(at 73.66 100.33 0)
 			(effects
 				(font
@@ -11278,10 +11341,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "793d5cab-271b-4cbb-9389-0cdbe18df7ca")
 		(property "Reference" "R17"
-			(at 114.3 162.5599 0)
+			(at 114.046 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11290,7 +11352,7 @@
 			)
 		)
 		(property "Value" "51k"
-			(at 114.3 165.0999 0)
+			(at 114.046 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12928,10 +12990,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ae7abb33-0cf0-4575-898b-4fc7fcc5d278")
 		(property "Reference" "R15"
-			(at 114.3 121.9199 0)
+			(at 114.046 122.936 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12940,7 +13001,7 @@
 			)
 		)
 		(property "Value" "51k"
-			(at 114.3 124.4599 0)
+			(at 114.046 125.476 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13170,6 +13231,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 73.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
 			(at 73.66 39.37 0)
 			(effects
 				(font
@@ -13464,6 +13534,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 73.66 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9074592b-1ce4-4c99-b4dc-6ea8a410bf23")
 		)
@@ -13524,6 +13603,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 73.66 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
 			(at 73.66 80.01 0)
 			(effects
 				(font
@@ -13920,10 +14008,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cc28c2cc-3918-459e-b7c6-86aa977e5985")
 		(property "Reference" "R16"
-			(at 114.3 142.2399 0)
+			(at 114.3 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13932,7 +14019,7 @@
 			)
 		)
 		(property "Value" "51k"
-			(at 114.3 144.7799 0)
+			(at 114.3 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14843,6 +14930,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 73.66 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4a69b192-794d-4207-ae37-74e477993777")
 		)
@@ -15054,6 +15150,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 143.51 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
 			(at 143.51 20.32 0)
 			(effects
 				(font
@@ -15299,10 +15404,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f60c6b9d-7a4f-4194-a121-6fbc8990a820")
 		(property "Reference" "R12"
-			(at 114.3 60.9599 0)
+			(at 114.3 61.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15311,7 +15415,7 @@
 			)
 		)
 		(property "Value" "51k"
-			(at 114.3 63.4999 0)
+			(at 114.3 64.516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15591,7 +15695,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645Sx43SMTR92"
 			(at 182.88 86.36 0)
 			(effects
 				(font
