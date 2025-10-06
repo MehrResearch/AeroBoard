@@ -1,7 +1,7 @@
 (footprint "Buzzer_coil_3pin"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Panasonic ELC Type 15E-L inductor, radial, shielded, pin pitch=10.00mm, diameter=16.0mm, https://mediap.industry.panasonic.eu/assets/imported/industrial.panasonic.com/cdbs/www-data/pdf/AGB0000/AGB0000CE10.pdf")
 	(tags "ELC15ExxxL")
@@ -25,19 +25,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" "Inductor_THT:Buzzer_coil_3pin"
-		(at 5.5 6 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "a88de646-6498-4863-8f31-0cf6da256763")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -76,7 +63,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "f6e55ef7-790e-4072-94c9-ba5252c36077")
 	)
@@ -87,7 +74,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "3fe9e8ce-0ab6-4776-851e-46d9726f85ca")
 	)
@@ -98,7 +85,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "8856c5ca-5fce-45d9-b853-5fee5634b142")
 	)
@@ -138,7 +125,8 @@
 		(remove_unused_layers no)
 		(uuid "f8b5146f-7611-40b4-9fb6-83990a5bc707")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D16.0mm_P10.00mm_Panasonic_15E-L.wrl"
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Inductor.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -275,7 +275,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "c3d8e6b2-5a69-419a-978f-f08c99754bc5")
+			(uuid "ae6b979e-0aca-4533-b8f1-30e0be7fe173")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -286,7 +286,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "7e1ebc9d-6f06-4fa5-974c-7d90673047df")
+			(uuid "f35f8237-3a9d-4321-b18b-0fe7b1dbed24")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -297,7 +297,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "71761584-40ae-4437-b8ee-28bbe831dea7")
+			(uuid "60332576-c7dc-4d1b-9781-3e42effe50ed")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -4.56797 -2.998 0)
@@ -345,7 +345,7 @@
 			(uuid "d105740e-3dd9-40e9-b01a-4d85b457238d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D16.0mm_P10.00mm_Panasonic_15E-L.wrl"
+		(model "${KIPRJMOD}/Inductor.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2370,7 +2370,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "2cf1efad-28bf-443a-8223-fa5113f05188")
+			(uuid "87bfef2e-872b-4127-b06b-79b9d02ae5f8")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -2381,7 +2381,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "8eabf470-d80b-422e-8284-364b51ef7aff")
+			(uuid "483047fa-efd8-45c6-aa70-0163fd94bdd7")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -2392,7 +2392,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "cfdee388-89df-4473-a95a-11ef0294531e")
+			(uuid "5068df0f-7b81-48e1-ae28-37f95e7e6c3b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -4.82197 -2.686 0)
@@ -2440,7 +2440,7 @@
 			(uuid "8f97f54c-6a11-4042-982c-1b39b4f6f683")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D16.0mm_P10.00mm_Panasonic_15E-L.wrl"
+		(model "${KIPRJMOD}/Inductor.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2522,7 +2522,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "9fd2041a-032a-49f8-9127-ecf62b8ba528")
+			(uuid "894bf991-d3c1-40e3-9cd8-48f4130cc54a")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -2533,7 +2533,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "ee769044-8f9c-4349-98bc-3caf0dd0bfac")
+			(uuid "fabf6674-52df-48c6-8f76-24e14c948f9a")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -2544,7 +2544,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "e81a2be4-19e4-41f3-aab4-a0a3cd5fefa8")
+			(uuid "753ef1fb-afae-4cff-835e-2fc93ed60851")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -3.048 5.08 0)
@@ -2592,7 +2592,7 @@
 			(uuid "a4ab11ce-2b9e-419f-b5e5-3d4d1ab27c64")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D16.0mm_P10.00mm_Panasonic_15E-L.wrl"
+		(model "${KIPRJMOD}/Inductor.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4932,7 +4932,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "4a5bb75f-4640-4b64-9519-2f6e85cd46b4")
+			(uuid "d5e7aef2-ded8-411c-a107-c0843d5117ea")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -4943,7 +4943,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "3bbdf8df-cb4a-4d57-bf1e-3200517ec9a7")
+			(uuid "e2eaf01c-6a84-4868-8a6e-0e443cd40632")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -4954,7 +4954,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "76a5191e-8c8b-403d-8b18-4d658085bbc6")
+			(uuid "3fb6f5af-e9d0-4e1c-a098-80b81e1908b3")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -4.82197 -2.744 0)
@@ -5002,7 +5002,7 @@
 			(uuid "87c8ee31-1724-477e-8dd3-a98d48b01350")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D16.0mm_P10.00mm_Panasonic_15E-L.wrl"
+		(model "${KIPRJMOD}/Inductor.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6200,7 +6200,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "a9467424-6806-4f42-91e9-b168c40de43b")
+			(uuid "1235b259-257e-45a1-8d1e-15d13be3767d")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -6211,7 +6211,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "a2caec04-11a7-468a-9762-fcbe086828de")
+			(uuid "c97a0dc1-db56-45c0-951d-a26903897dbe")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -6222,7 +6222,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "982ed034-bcf9-40a0-82c9-970f4b31085a")
+			(uuid "cc16a5be-80d5-47c7-ad0e-3550d057d49b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -4.31397 -3.292 0)
@@ -6270,7 +6270,7 @@
 			(uuid "9fa332fc-fd87-49ed-a499-febc233501c4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D16.0mm_P10.00mm_Panasonic_15E-L.wrl"
+		(model "${KIPRJMOD}/Inductor.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15185,7 +15185,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "2b7eca6f-8512-476c-aa9c-d30c12ad1705")
+			(uuid "640fcb6a-e745-4c8e-b37a-7c9b76b7a931")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -15196,7 +15196,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "dc415707-d974-482e-b387-33b4b3ba4f14")
+			(uuid "85e969fe-a393-4303-abba-6a9986a6d2ac")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -15207,7 +15207,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "6f16eed2-6f6d-4107-98d5-8dbaaa4504b0")
+			(uuid "1a721428-0d33-4d10-88c3-c2d3825e2018")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -4.82197 -2.924 0)
@@ -15255,7 +15255,7 @@
 			(uuid "429ba6cc-4c59-4169-b5ee-dd57bf49c1b6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D16.0mm_P10.00mm_Panasonic_15E-L.wrl"
+		(model "${KIPRJMOD}/Inductor.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17769,7 +17769,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "ec88af38-17c7-4bff-8991-104fb70a0b1a")
+			(uuid "7f8f778e-762a-4784-89ad-acb58f1bca7e")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -17780,7 +17780,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "f7753e9a-5d89-45be-b9d2-8fd03eaa1fab")
+			(uuid "c1b726be-6641-44a0-a3bd-3a275c3ff904")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -17791,7 +17791,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "d8ce9609-deb5-4dda-ba1b-4ac2a723e9ef")
+			(uuid "e108b152-1fce-4dfa-9b22-7c548aeac25f")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -4.56797 -2.924 0)
@@ -17839,7 +17839,7 @@
 			(uuid "ad5d7b76-7bbe-409f-b955-2b189b21859c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D16.0mm_P10.00mm_Panasonic_15E-L.wrl"
+		(model "${KIPRJMOD}/Inductor.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18955,7 +18955,7 @@
 			(net 19 "unconnected-(U1-GPIO0-Pad1)")
 			(pinfunction "GPIO0")
 			(pintype "bidirectional")
-			(uuid "b0a86508-2a5a-4147-9498-4574ba29020c")
+			(uuid "c4552e7b-7ea5-497d-8229-d3322b202246")
 		)
 		(pad "2" thru_hole oval
 			(at -8.89 -21.59)
@@ -18978,7 +18978,7 @@
 			(net 12 "unconnected-(U1-GPIO1-Pad2)")
 			(pinfunction "GPIO1")
 			(pintype "bidirectional")
-			(uuid "4a4f57b4-2acb-4431-be72-5b6bc9d0ea03")
+			(uuid "0bf19058-304b-4011-8086-9e867e76835d")
 		)
 		(pad "3" thru_hole rect
 			(at -8.89 -19.05)
@@ -19001,7 +19001,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "deed6680-ccab-4329-8b1b-7bd578a54ca6")
+			(uuid "8690a8f3-e47e-4b85-b0e5-d133a8b3cd77")
 		)
 		(pad "4" thru_hole oval
 			(at -8.89 -16.51)
@@ -19024,7 +19024,7 @@
 			(net 20 "unconnected-(U1-GPIO2-Pad4)")
 			(pinfunction "GPIO2")
 			(pintype "bidirectional")
-			(uuid "b0c90eb2-3e4d-4478-889e-240efff20916")
+			(uuid "3d0283b7-3cca-4b71-8c64-d7588671b1a9")
 		)
 		(pad "5" thru_hole oval
 			(at -8.89 -13.97)
@@ -19047,7 +19047,7 @@
 			(net 22 "unconnected-(U1-GPIO3-Pad5)")
 			(pinfunction "GPIO3")
 			(pintype "bidirectional")
-			(uuid "e43108ea-2793-4315-bd73-5eed5703e769")
+			(uuid "14823020-4829-4a36-90c7-7239147c0dc1")
 		)
 		(pad "6" thru_hole oval
 			(at -8.89 -11.43)
@@ -19070,7 +19070,7 @@
 			(net 11 "unconnected-(U1-GPIO4-Pad6)")
 			(pinfunction "GPIO4")
 			(pintype "bidirectional")
-			(uuid "70a02797-d1a9-48b4-a511-6fc41ab38a5a")
+			(uuid "f303e71f-1387-48ff-b73e-72316ab4c724")
 		)
 		(pad "7" thru_hole oval
 			(at -8.89 -8.89)
@@ -19093,7 +19093,7 @@
 			(net 21 "unconnected-(U1-GPIO5-Pad7)")
 			(pinfunction "GPIO5")
 			(pintype "bidirectional")
-			(uuid "0aee2f27-de19-4a2c-a972-8431d2f2773b")
+			(uuid "485cde38-0469-4108-b732-65e580b1a2da")
 		)
 		(pad "8" thru_hole rect
 			(at -8.89 -6.35)
@@ -19116,7 +19116,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "a076045a-e4be-4281-bd5d-c16c0f15eb2f")
+			(uuid "e6cd6f5b-3818-4c36-86d0-3380de6b4fca")
 		)
 		(pad "9" thru_hole oval
 			(at -8.89 -3.81)
@@ -19139,7 +19139,7 @@
 			(net 18 "unconnected-(U1-GPIO6-Pad9)")
 			(pinfunction "GPIO6")
 			(pintype "bidirectional")
-			(uuid "0d87e47e-3f22-45f4-8fca-d2d5739a0933")
+			(uuid "59081e39-6ec7-4149-b451-5b5ca1fcef12")
 		)
 		(pad "10" thru_hole oval
 			(at -8.89 -1.27)
@@ -19162,7 +19162,7 @@
 			(net 48 "Net-(U1-GPIO7)")
 			(pinfunction "GPIO7")
 			(pintype "bidirectional")
-			(uuid "ee4f5e9b-a641-4326-8642-38b876a99c15")
+			(uuid "b7cd6c2e-e29c-44af-a6bf-ff902a4e5003")
 		)
 		(pad "11" thru_hole oval
 			(at -8.89 1.27)
@@ -19185,7 +19185,7 @@
 			(net 23 "Net-(U1-GPIO8)")
 			(pinfunction "GPIO8")
 			(pintype "bidirectional")
-			(uuid "ecb86176-cb7f-43f4-9a1d-c25ba394a3a2")
+			(uuid "eee6e04d-113e-4eec-a1a2-9f0d14c88f29")
 		)
 		(pad "12" thru_hole oval
 			(at -8.89 3.81)
@@ -19208,7 +19208,7 @@
 			(net 24 "Net-(U1-GPIO9)")
 			(pinfunction "GPIO9")
 			(pintype "bidirectional")
-			(uuid "47f86658-1e4d-4372-9d8b-dbfa213daa1f")
+			(uuid "bf1a2f83-78ea-4c35-a2bc-371094589654")
 		)
 		(pad "13" thru_hole rect
 			(at -8.89 6.35)
@@ -19231,7 +19231,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "c9aedc46-7872-40f5-a087-7e81bf01fee5")
+			(uuid "2e5b4d00-79b9-41a6-a267-617b95914b7c")
 		)
 		(pad "14" thru_hole oval
 			(at -8.89 8.89)
@@ -19254,7 +19254,7 @@
 			(net 25 "Net-(U1-GPIO10)")
 			(pinfunction "GPIO10")
 			(pintype "bidirectional")
-			(uuid "4732ad9d-b1e4-4685-a95d-b2a47663f06a")
+			(uuid "9d91722d-87a7-4353-82bc-19d95571cd83")
 		)
 		(pad "15" thru_hole oval
 			(at -8.89 11.43)
@@ -19277,7 +19277,7 @@
 			(net 26 "Net-(U1-GPIO11)")
 			(pinfunction "GPIO11")
 			(pintype "bidirectional")
-			(uuid "dd321035-8d1f-43af-bcd6-383f7c52f4ee")
+			(uuid "61963380-42ed-4a74-8175-509b25bfc93c")
 		)
 		(pad "16" thru_hole oval
 			(at -8.89 13.97)
@@ -19300,7 +19300,7 @@
 			(net 27 "Net-(U1-GPIO12)")
 			(pinfunction "GPIO12")
 			(pintype "bidirectional")
-			(uuid "497d906e-dee6-4d0d-b052-925cdf7e7692")
+			(uuid "61b5c81a-d292-4d08-8604-3d4861168dd6")
 		)
 		(pad "17" thru_hole oval
 			(at -8.89 16.51)
@@ -19323,7 +19323,7 @@
 			(net 28 "Net-(U1-GPIO13)")
 			(pinfunction "GPIO13")
 			(pintype "bidirectional")
-			(uuid "ba56a2f0-d0e5-4341-bc4d-fba3f9c9e0a1")
+			(uuid "6dc5c70e-082b-4c5b-8d99-a48bf682c2a6")
 		)
 		(pad "18" thru_hole rect
 			(at -8.89 19.05)
@@ -19346,7 +19346,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "f524ae89-9c59-4882-876d-cb38e15915cf")
+			(uuid "1f5f5d0c-a040-4d53-b8c1-b9d751d55a04")
 		)
 		(pad "19" thru_hole oval
 			(at -8.89 21.59)
@@ -19369,7 +19369,7 @@
 			(net 29 "Net-(U1-GPIO14)")
 			(pinfunction "GPIO14")
 			(pintype "bidirectional")
-			(uuid "c52451e5-92f9-4b16-9624-f4c9d52928be")
+			(uuid "9d546159-bdbb-4924-9b67-c5e7713c1e4e")
 		)
 		(pad "20" thru_hole oval
 			(at -8.89 24.13)
@@ -19392,7 +19392,7 @@
 			(net 30 "Net-(U1-GPIO15)")
 			(pinfunction "GPIO15")
 			(pintype "bidirectional")
-			(uuid "ab9ecf70-984d-440d-bab0-f1d0c06fe833")
+			(uuid "b2ac9c85-b325-4bb1-bbb3-0ef2281a5126")
 		)
 		(pad "21" thru_hole oval
 			(at 8.89 24.13)
@@ -19415,7 +19415,7 @@
 			(net 76 "Net-(Q13-G)")
 			(pinfunction "GPIO16")
 			(pintype "bidirectional")
-			(uuid "5a686add-cd3a-434d-8d21-86e3e87504aa")
+			(uuid "fcb3c853-6788-4c40-bb97-ddbbb45fe134")
 		)
 		(pad "22" thru_hole oval
 			(at 8.89 21.59)
@@ -19438,7 +19438,7 @@
 			(net 75 "Net-(Q12-G)")
 			(pinfunction "GPIO17")
 			(pintype "bidirectional")
-			(uuid "2a12fc97-6df7-4fd3-9061-bbd960321c18")
+			(uuid "2c69dbb2-d841-4db0-973e-d7fe0f033522")
 		)
 		(pad "23" thru_hole rect
 			(at 8.89 19.05)
@@ -19461,7 +19461,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "7a3d2518-8e26-415e-9ea9-1d87a5c6c6f6")
+			(uuid "a4e3b559-6f06-4e98-8d12-503995f85026")
 		)
 		(pad "24" thru_hole oval
 			(at 8.89 16.51)
@@ -19484,7 +19484,7 @@
 			(net 74 "Net-(Q11-G)")
 			(pinfunction "GPIO18")
 			(pintype "bidirectional")
-			(uuid "a3a691da-c55f-43f9-9f8e-dc3ca36ab7cd")
+			(uuid "bf036ff6-c17f-4871-b947-0aa3a0c7c5da")
 		)
 		(pad "25" thru_hole oval
 			(at 8.89 13.97)
@@ -19507,7 +19507,7 @@
 			(net 73 "Net-(Q10-G)")
 			(pinfunction "GPIO19")
 			(pintype "bidirectional")
-			(uuid "ae9796a4-6fd5-47a2-a5c1-1390e8554f6d")
+			(uuid "07364d2e-84ae-449d-8431-4a952d254e1c")
 		)
 		(pad "26" thru_hole oval
 			(at 8.89 11.43)
@@ -19530,7 +19530,7 @@
 			(net 13 "unconnected-(U1-GPIO20-Pad26)")
 			(pinfunction "GPIO20")
 			(pintype "bidirectional")
-			(uuid "78727bf6-7754-4e9e-9fe2-0f8179fccc34")
+			(uuid "a1475171-7443-4848-8ed4-a6c99634914f")
 		)
 		(pad "27" thru_hole oval
 			(at 8.89 8.89)
@@ -19553,7 +19553,7 @@
 			(net 16 "unconnected-(U1-GPIO21-Pad27)")
 			(pinfunction "GPIO21")
 			(pintype "bidirectional")
-			(uuid "b1562729-adbe-4b6e-ae73-4ab1f5e880b5")
+			(uuid "f70ba340-5294-471d-bddb-1ea60c57ab29")
 		)
 		(pad "28" thru_hole rect
 			(at 8.89 6.35)
@@ -19576,7 +19576,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "4f02ff05-ec6a-414f-8969-abe0cfc32ce5")
+			(uuid "ca7ba6ea-6b86-4045-a5d9-0d2eda45166e")
 		)
 		(pad "29" thru_hole oval
 			(at 8.89 3.81)
@@ -19599,7 +19599,7 @@
 			(net 10 "unconnected-(U1-GPIO22-Pad29)")
 			(pinfunction "GPIO22")
 			(pintype "bidirectional")
-			(uuid "7f1c9b7e-fd5a-46a7-bfaa-9d3b46940c90")
+			(uuid "56fe1f7f-06e1-4ebe-a6ed-f4637fef60d7")
 		)
 		(pad "30" thru_hole oval
 			(at 8.89 1.27)
@@ -19622,7 +19622,7 @@
 			(net 68 "Net-(U1-RUN)")
 			(pinfunction "RUN")
 			(pintype "input")
-			(uuid "19dafea2-2506-4e5f-bea4-78fbb373b747")
+			(uuid "ddaef8c8-420f-49e6-b254-92e86244fc4b")
 		)
 		(pad "31" thru_hole oval
 			(at 8.89 -1.27)
@@ -19645,7 +19645,7 @@
 			(net 66 "/SDA")
 			(pinfunction "GPIO26_ADC0")
 			(pintype "bidirectional")
-			(uuid "45cada33-af72-499d-82c6-c96ceba1f67b")
+			(uuid "997ae8ff-e9ad-4ac8-b500-9cdff0a3a427")
 		)
 		(pad "32" thru_hole oval
 			(at 8.89 -3.81)
@@ -19668,7 +19668,7 @@
 			(net 67 "/SCL")
 			(pinfunction "GPIO27_ADC1")
 			(pintype "bidirectional")
-			(uuid "4f023eab-412a-4368-8797-14c1cf9c2ba1")
+			(uuid "b4f45149-fff7-4b91-8295-5d90d1f51cab")
 		)
 		(pad "33" thru_hole rect
 			(at 8.89 -6.35)
@@ -19691,7 +19691,7 @@
 			(net 2 "GND")
 			(pinfunction "AGND")
 			(pintype "power_in")
-			(uuid "8d29edcc-5e48-48d2-8705-c11629159185")
+			(uuid "6a28a08e-72ed-4bc8-85c1-fbf4ff7bde20")
 		)
 		(pad "34" thru_hole oval
 			(at 8.89 -8.89)
@@ -19714,7 +19714,7 @@
 			(net 14 "unconnected-(U1-GPIO28_ADC2-Pad34)")
 			(pinfunction "GPIO28_ADC2")
 			(pintype "bidirectional")
-			(uuid "ac07b167-f59d-4154-b781-0b5d85874a18")
+			(uuid "a5af9c88-1147-416b-bb0c-9de0a53b7c2b")
 		)
 		(pad "35" thru_hole oval
 			(at 8.89 -11.43)
@@ -19737,7 +19737,7 @@
 			(net 69 "unconnected-(U1-ADC_VREF-Pad35)")
 			(pinfunction "ADC_VREF")
 			(pintype "power_in")
-			(uuid "b3da729c-0789-400d-8f79-0509416a0cd7")
+			(uuid "6a490577-cac3-4b77-89b9-c41e3fb2ec61")
 		)
 		(pad "36" thru_hole oval
 			(at 8.89 -13.97)
@@ -19760,7 +19760,7 @@
 			(net 65 "/3V3")
 			(pinfunction "3V3")
 			(pintype "power_in")
-			(uuid "5da7fe95-c059-448a-b267-48f55b02c440")
+			(uuid "33f24d18-14c7-4cc1-8f8b-1345197e96e1")
 		)
 		(pad "37" thru_hole oval
 			(at 8.89 -16.51)
@@ -19783,7 +19783,7 @@
 			(net 15 "unconnected-(U1-3V3_EN-Pad37)")
 			(pinfunction "3V3_EN")
 			(pintype "input")
-			(uuid "8810ca73-0b52-434e-b176-197c2789fe9c")
+			(uuid "a1bbf39d-4e4e-4bae-b0a0-8e3dc3f15a3e")
 		)
 		(pad "38" thru_hole rect
 			(at 8.89 -19.05)
@@ -19806,7 +19806,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "bidirectional")
-			(uuid "b37e2ba2-78b4-44d6-a66c-5f2cab972578")
+			(uuid "a2567e20-4b8d-45be-b258-700bd236a8b0")
 		)
 		(pad "39" thru_hole oval
 			(at 8.89 -21.59)
@@ -19829,7 +19829,7 @@
 			(net 60 "Net-(D10-A)")
 			(pinfunction "VSYS")
 			(pintype "power_in")
-			(uuid "de70d653-cbf9-4aed-85ed-4dcdbb935dc8")
+			(uuid "51fb0911-7442-4644-9829-733096c95fec")
 		)
 		(pad "40" thru_hole oval
 			(at 8.89 -24.13)
@@ -19852,7 +19852,7 @@
 			(net 78 "/VBUS")
 			(pinfunction "VBUS")
 			(pintype "power_in")
-			(uuid "e6d3e955-fa21-4bfd-9181-8fd48e0b5940")
+			(uuid "8fb664b8-3664-4d31-b0fb-3d300b7d4299")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Pico.wrl"
@@ -20867,7 +20867,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "e64d98de-f751-4fd9-86df-47cb5bb4547d")
+			(uuid "8a38a961-a716-49ef-9c14-ea0f4a276a3d")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -20878,7 +20878,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "1e8c2350-f45d-4254-8a4b-bd494babb8c1")
+			(uuid "14bb0727-05f7-480c-b18c-ea7c4483ee59")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -20889,7 +20889,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "f647bf09-6f6e-4515-8112-0554505ec213")
+			(uuid "99d25cf1-6dbb-4d0b-9de0-4b01463b8614")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -4.826 -2.67 0)
@@ -20937,7 +20937,7 @@
 			(uuid "690296af-ccc2-43b3-a6c0-cc31c3355d2a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D16.0mm_P10.00mm_Panasonic_15E-L.wrl"
+		(model "${KIPRJMOD}/Inductor.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22561,7 +22561,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "b3a20b89-04dc-43e2-a72a-198354b9a5ad")
+			(uuid "599c2ef0-a5ea-47a9-987f-491085e9839e")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -22572,7 +22572,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "d8885713-9290-4718-8691-238a662f8351")
+			(uuid "3075faa2-b471-4763-a6c8-3f43b57dd6f8")
 		)
 		(fp_circle
 			(center 0 -0.10606)
@@ -22583,7 +22583,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "774f3198-4a4d-4e42-8de8-5fab07074acf")
+			(uuid "47982e4b-66bf-4949-ad5c-5532cce16044")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -4.82197 -2.67 0)
@@ -22631,7 +22631,7 @@
 			(uuid "0b571e7c-4d58-4262-b5ca-a790f5ee5ff4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D16.0mm_P10.00mm_Panasonic_15E-L.wrl"
+		(model "${KIPRJMOD}/Inductor.step"
 			(offset
 				(xyz 0 0 0)
 			)
