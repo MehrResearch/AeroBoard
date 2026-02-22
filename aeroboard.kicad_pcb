@@ -234,7 +234,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -256,6 +256,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a2c36da0-a516-4b0f-b7d2-30f98abbc183")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8d3f7724-8b46-4616-b447-73e8190f0daf")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -384,7 +410,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -406,6 +432,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17737"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ce407211-86fd-49df-9a88-784882a067b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e6937b16-e0bf-4f7d-8179-4df5e4fe0234")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -586,7 +638,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -608,6 +660,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C131337"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b1457801-b2fc-40ae-ae5a-ca56ee5932d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bdbbe8ea-a7eb-4529-9609-ebc17354561a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1042,7 +1120,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1064,6 +1142,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "081d7974-7677-431e-8112-0b5167af9fc5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2296"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "afb7c203-9261-426d-8141-ac87d4fb66e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0c162bb-656f-4530-b360-dda67b0d7951")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1266,7 +1383,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1288,6 +1405,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C131337"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e45401df-c9c3-47da-b793-2465e61d7c81")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eae96b8a-0f15-4530-bf2f-750b81701470")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1722,7 +1865,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1744,6 +1887,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C28233"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d6e588a7-1b12-4202-a6c4-66bd8f72d2e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d196ee0-9d24-45aa-a8ef-b3d893d5c8af")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1923,7 +2092,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1945,6 +2114,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C28233"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "82c14084-995f-4051-9725-5c4cd48c82e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e0e6c3a0-6740-42e3-8f51-b04abc3b325c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2124,7 +2319,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2146,6 +2341,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C28233"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2708c4b7-e20f-4903-9543-de98f544cd01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b9bf0e14-0fce-47c7-acf8-4310c0287d33")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2327,7 +2548,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2349,6 +2570,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f1766c17-e649-47d9-ac03-18dbb9acf7e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c4c57a87-44c7-4619-877b-9738c34ad373")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2479,7 +2726,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2501,6 +2748,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4bab508-daa5-4d80-b3fc-eb6fb07dd62e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3047fe23-183b-49f1-9ad7-10c74b0ee899")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2629,7 +2902,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2651,6 +2924,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17630"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "04f94c81-28bf-4e03-9237-6969f48e5c8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a29dc649-695c-4348-b589-2a2794abaaf7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2852,6 +3151,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C53550"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "59ff205c-a7e2-4072-8e38-d3ff7ef8d94f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d6d12b35-3531-4804-83d3-868c8e1aa97d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3158,7 +3483,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3184,11 +3509,37 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C5481312"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "16e33ed4-f3ee-4fd6-958e-52ee0473a401")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d5ff7e39-120b-411f-83fb-a4752c9a1f94")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/f70ed341-5b12-499e-a994-3c6f16c6db36")
 		(sheetname "/")
 		(sheetfile "aeroboard.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 5.37 -3.22)
 			(end 5.37 4.62)
@@ -3518,7 +3869,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3540,6 +3891,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17737"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d2d5cd0-e127-42ce-9ced-f7ebb4d19167")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "639ee010-a6c8-42c8-bd08-60de99381666")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3719,7 +4096,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3741,6 +4118,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "03fe0ffa-f1a3-4009-9020-06596b4501e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2296"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad44253e-c11e-40ee-8613-ed5019860871")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19e75757-f934-42f1-b26e-9d09b0641513")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3943,7 +4359,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3965,6 +4381,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C131337"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b74f204-2874-48ed-acb8-fb8b75a65cd2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9e82ce86-fb64-46f3-b396-4b95afd1ecdf")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4425,6 +4867,32 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C53550"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b115da7c-1426-4871-bd71-10cc61ee36fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d365e940-6b06-4a73-8fc3-af94eb514f96")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/f056b6c0-62d5-4c08-8895-d7ae34066f45")
 		(sheetname "/")
@@ -4726,7 +5194,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4748,6 +5216,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17737"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4a9946d1-728c-423b-80de-166e1e86be3b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "377fc443-6c67-4222-a924-509092179aa5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4929,7 +5423,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4951,6 +5445,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c7504f46-b816-48a9-996f-aa26d83a7331")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f0797ea8-07a2-4d44-9ae0-9716d363dbda")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5102,6 +5622,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C53550"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7d66cb9-ed75-4a4e-aa7a-44d7717e3f76")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3e36322f-e7e0-451c-87f3-1b93e912a20f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5407,7 +5953,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5429,6 +5975,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17414"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d860f743-3f2d-4297-b9c6-db07162c5ccd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e7e7b144-a01a-4d99-9b3d-0ecfd55b7c45")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5608,7 +6180,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5630,6 +6202,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C28233"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "44110e43-acf5-46db-849f-9646c3c591da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a414275a-0374-48e1-833a-49e9ebc5ec83")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5810,7 +6408,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5832,6 +6430,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C131337"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e5556a56-f16a-4dc2-9664-959358261b2d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f1c6a85c-a96f-4cca-8972-fba3744ed064")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6268,7 +6892,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6290,6 +6914,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "347e26cd-c6a2-4b51-82c3-864327658829")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "25af4fe7-0713-4210-be58-af0903c80655")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6418,7 +7068,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6440,6 +7090,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17737"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "194ef6bd-fa02-4fd0-9b35-e100afbaaf66")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1d12bc97-12e3-4f43-97e0-f6738c82538a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6641,6 +7317,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C53550"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "56df6d3d-aa06-4d09-a3a8-c3fc0309665c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "90d1e61d-024d-41ff-a5ad-b09368a71c35")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6947,7 +7649,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6969,6 +7671,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C131337"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "be111f4a-70c9-4a04-8f3e-83e5c7c133b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5a2c561d-b6a0-4f82-b8a4-31e4ff34bfc6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7403,7 +8131,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7425,6 +8153,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17737"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e77e37c-f824-44c3-ab8e-d64858eacd9a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "16ff4610-0db9-4e5d-9e63-77fcdeec3f56")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7576,14 +8330,14 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_SMD:SW_SPST_PTS645Sx43SMTR92"
+	(footprint "Button_Switch_SMD:SW_SPST_TS-1088-xR020"
 		(layer "F.Cu")
 		(uuid "3def2027-aef5-40b4-bb47-c9d221b26728")
-		(at 118 126.75 180)
-		(descr "Tactile switch, 6x6 mm, H4.3 mm, gullwing terminals, https://www.ckswitches.com/media/1471/pts645.pdf")
-		(tags "SPST Button Switch CK C&K")
+		(at 118 126.75)
+		(descr "SMD Tactile Switch, 3.9x3x2 mm, https://lcsc.com/datasheet/lcsc_datasheet_2504101957_XUNPU-TS-1088-AR02016_C720477.pdf")
+		(tags "Tactile Switch")
 		(property "Reference" "SW1"
-			(at 0 0 180)
+			(at 0 -2.65 0)
 			(layer "F.SilkS")
 			(uuid "af9b106b-79c7-4dfc-84a4-48d59ab60c4b")
 			(effects
@@ -7594,7 +8348,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 4.15 180)
+			(at 0 2.65 0)
 			(layer "F.Fab")
 			(uuid "00753328-68fd-494f-ae98-796db6ef09f1")
 			(effects
@@ -7604,8 +8358,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 0 0 180)
+		(property "Datasheet" "~"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -7617,8 +8371,8 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 180)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -7630,183 +8384,189 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C720477 "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "66441693-48c5-428b-96f6-88748352bd68")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "99d43551-9ac0-4545-863d-a9e4a629659c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/fa3d613a-aef9-4ee6-aaa5-c302d36bc6e0")
 		(sheetname "/")
 		(sheetfile "aeroboard.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start 3.23 3.23)
-			(end 3.23 3.2)
+			(start -2.1 -1.65)
+			(end 2.1 -1.65)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b82c62a8-b7a4-40c3-bc3e-c8cd0095b107")
+			(uuid "fa70fc6d-2e55-4d85-bece-5ef5c174e0af")
 		)
 		(fp_line
-			(start 3.23 -1.3)
-			(end 3.23 1.3)
+			(start -2.1 -1.26)
+			(end -2.1 -1.65)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9512fa30-ebfb-4477-8d98-5e0d5f3dba62")
+			(uuid "ff1069f4-3a79-49fb-a5d6-354dae4526ee")
 		)
 		(fp_line
-			(start 3.23 -3.23)
-			(end 3.23 -3.2)
+			(start -2.1 1.26)
+			(end -2.1 1.65)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "08574450-ebe9-4e8e-9f6a-fa560f61757e")
+			(uuid "69968e19-8f94-40ae-836f-63474ff3f83a")
 		)
 		(fp_line
-			(start -3.23 3.23)
-			(end 3.23 3.23)
+			(start -2.1 1.65)
+			(end 2.1 1.65)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "70c21a13-1e73-428b-98f0-f8848811da64")
+			(uuid "de59aef1-9822-431f-89ac-ebd7c8919579")
 		)
 		(fp_line
-			(start -3.23 3.23)
-			(end -3.23 3.2)
+			(start 2.1 -1.65)
+			(end 2.1 -1.26)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9bfdc2e2-41fa-4822-8d02-06e887b2faaf")
+			(uuid "2366e989-dc6a-49f3-991e-5d07d1a4d619")
 		)
 		(fp_line
-			(start -3.23 -1.3)
-			(end -3.23 1.3)
+			(start 2.1 1.65)
+			(end 2.1 1.26)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f5d333ab-5062-4148-8ddf-ac586d5c32fd")
+			(uuid "0253ad95-a4ce-4218-b2f9-0c6197e98125")
 		)
 		(fp_line
-			(start -3.23 -3.2)
-			(end -3.23 -3.23)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "a67e8bd6-47d7-4c30-b1b4-889a4239ff53")
-		)
-		(fp_line
-			(start -3.23 -3.23)
-			(end 3.23 -3.23)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "6fd0cf10-8d0c-48cc-ad6e-a428eb7f039d")
-		)
-		(fp_line
-			(start 5.05 3.4)
-			(end 5.05 -3.4)
+			(start -3 -1.75)
+			(end -3 1.75)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "512f4977-7ee3-4171-905f-ebead18f5362")
+			(uuid "5837e79e-50d7-4892-8121-06b7beebc430")
 		)
 		(fp_line
-			(start -5.05 3.4)
-			(end 5.05 3.4)
+			(start -3 1.75)
+			(end 3 1.75)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "16455a5e-5e07-44f0-94ce-4c0b5f7fee28")
+			(uuid "3214e61c-5539-42fa-9f95-1b3813f900c2")
 		)
 		(fp_line
-			(start -5.05 -3.4)
-			(end 5.05 -3.4)
+			(start 3 -1.75)
+			(end -3 -1.75)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "04fcff9d-99a0-49fa-b081-6a78ffd207f7")
+			(uuid "2625de71-f008-43c3-bf84-775965cf5a2a")
 		)
 		(fp_line
-			(start -5.05 -3.4)
-			(end -5.05 3.4)
+			(start 3 1.75)
+			(end 3 -1.75)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a21f2fe0-8d42-42aa-a8a6-f9ddf69655e6")
+			(uuid "e69f561e-8956-4487-bb69-1e8dbf887ca6")
 		)
 		(fp_line
-			(start 3 3)
-			(end 3 -3)
+			(start -1.95 -1.5)
+			(end 1.95 -1.5)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8a53f0c0-a7a5-4741-8c2a-6118fa05f33e")
+			(uuid "65b0dbdd-25ed-4cac-a8ee-38a54a2645cc")
 		)
 		(fp_line
-			(start 3 -3)
-			(end -3 -3)
+			(start -1.95 1.5)
+			(end -1.95 -1.5)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2e67d514-b6a9-4766-b34f-770efe64cc37")
+			(uuid "36920fdc-e8b4-4cef-af2a-36f8f9d9949e")
 		)
 		(fp_line
-			(start -3 3)
-			(end 3 3)
+			(start -1.95 1.5)
+			(end 1.95 1.5)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "63bb366f-f474-4d96-82e7-153a3429e4d9")
+			(uuid "8dee0bda-0749-471d-9333-7a25eaf54eb8")
 		)
 		(fp_line
-			(start -3 -3)
-			(end -3 3)
+			(start 1.95 -1.5)
+			(end 1.95 1.5)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "dd06ff8b-c2b7-4f72-817d-9aa5412a266c")
+			(uuid "d09b94e0-c537-42b8-949a-0fcdf1db18ca")
 		)
 		(fp_circle
 			(center 0 0)
-			(end 1.75 0)
+			(end 0.9 0)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "a1ac1538-d0d5-4142-8cdc-87b33bf6c105")
+			(uuid "ad486448-cddb-4343-85a1-a0dd2c763fbb")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -4.05 180)
+			(at 0 -2.65 0)
 			(layer "F.Fab")
 			(uuid "6154ff5a-841e-492c-913a-f91e4292e556")
 			(effects
@@ -7817,46 +8577,27 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -3.98 -2.25 180)
-			(size 1.55 1.3)
+			(at -2.225 0)
+			(size 1.05 2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.1923076923)
-			(pinfunction "1")
-			(pintype "passive")
-			(uuid "f3326572-60e5-41a9-9b46-9f2b2928e717")
-		)
-		(pad "1" smd roundrect
-			(at 3.98 -2.25 180)
-			(size 1.55 1.3)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.1923076923)
+			(roundrect_rratio 0.2380952381)
 			(net 68 "Net-(U1-RUN)")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "f3326572-60e5-41a9-9b46-9f2b2928e717")
 		)
 		(pad "2" smd roundrect
-			(at -3.98 2.25 180)
-			(size 1.55 1.3)
+			(at 2.225 0)
+			(size 1.05 2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.1923076923)
-			(net 2 "GND")
-			(pinfunction "2")
-			(pintype "passive")
-			(uuid "efb6028f-5a44-4ab4-866e-a54c55a77350")
-		)
-		(pad "2" smd roundrect
-			(at 3.98 2.25 180)
-			(size 1.55 1.3)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.1923076923)
+			(roundrect_rratio 0.2380952381)
 			(net 2 "GND")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "efb6028f-5a44-4ab4-866e-a54c55a77350")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645Sx43SMTR92.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_TS-1088-xR020.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7896,7 +8637,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7918,6 +8659,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17737"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "829a1980-edd0-4976-a2cf-40d087f2ebb5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "79618764-334c-44c8-b65c-6c5790f2055d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8097,7 +8864,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8119,6 +8886,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C149504"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a6c65511-2d29-4037-a393-8dd739e36f1d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cad64887-b596-4430-b323-32d9ba719976")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8298,7 +9091,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8320,6 +9113,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C28233"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94a1abeb-5f96-4e6e-9d67-51dc71b0bf79")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d7c5ed3a-ab55-44bf-a5b2-87eb930fa32b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8521,6 +9340,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C53550"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "956f2339-cf92-4657-ae2f-53f24e0dc720")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b120ce13-783c-453b-8bf5-7fd98acb7ae9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8826,7 +9671,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8848,6 +9693,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C28233"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "12e83309-8187-4ba0-9943-3cb2217ef34f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d429deea-7247-45e4-b3e6-2cd5a525d2fa")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9027,7 +9898,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9049,6 +9920,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d372c4ba-55a9-4a01-85fd-de9f470b877b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2296"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4acc8ae-366d-46e6-96e4-44ff7b3f1be4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1b8c45eb-47a0-4c4e-94eb-1f0b530f28e5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9250,7 +10160,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9272,6 +10182,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C28233"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "378ae6c4-abad-4730-b302-9b1f15a876ed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4197dd72-f7be-47f4-aa02-915436b3b890")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9452,7 +10388,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9474,6 +10410,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C124375"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a6e3f200-4794-4bbf-8399-e0dbc8243dbf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "90"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "98221779-ee55-4730-bef8-5439341b73a5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9709,7 +10671,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9731,6 +10693,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C49257"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7bc706ee-7b00-4390-8597-5890c6848607")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "90"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "998fbb2b-b954-4efc-9276-b9f2816c4f8a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9975,7 +10963,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9997,6 +10985,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17737"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "632f4efe-de86-4588-aa73-7bf4bcf1b5cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e1c507d-d52b-4ad5-9575-cb33efe7052f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -10351,7 +11365,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10396,6 +11410,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "203b3ace-a4b7-4a90-8a49-e6f3422c9551")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C191023"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3adc82cf-4c8b-4d23-881c-d2d3ba4b5e08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "26e10445-9271-46fb-b77d-d0cc6b8890f5")
 			(effects
 				(font
 					(size 1 1)
@@ -10650,7 +11690,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10672,6 +11712,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17630"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d8e0b306-5c59-4baa-be13-8741ed255d3d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "76e7bce6-ea72-427b-9471-be3df44acc66")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -10853,7 +11919,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10898,6 +11964,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "39acce8d-7e99-493c-939e-f3e84b52bfa6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C191023"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e0d8a82-964f-4779-a1d2-57e9c1d007fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "883d61e2-aa40-4018-bcde-1463e351a26b")
 			(effects
 				(font
 					(size 1 1)
@@ -11154,7 +12246,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11176,6 +12268,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17630"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17ba5f15-80dc-402a-a213-2559eb7e0136")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9c1e9591-7072-45bd-88ec-16a955dc223d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11355,7 +12473,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11377,6 +12495,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C28233"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "70f87fac-9181-4060-9200-6d3183930ac4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "472f6261-6339-4f8e-b7a1-126b5463dfad")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11556,7 +12700,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11578,6 +12722,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e358321-8aeb-4c68-bb7e-25c98b1af013")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2296"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd5fa098-0e3e-498a-b8b3-0ab2b8236379")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7912e2b3-e78d-4447-968c-fb62b0be6f2c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11780,7 +12963,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11802,6 +12985,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4838826a-6f69-4c02-9705-a6da4f836296")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2296"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "413863c7-381c-49cd-9191-ea7793c4225b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "409c1b8f-e38e-4b9d-847f-afaaeb829b9f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12003,7 +13225,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12025,6 +13247,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17630"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "31b5a230-8a8a-49b7-98d4-8ea5a501aeb3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55566388-161d-46c2-825c-bc50cca71ea9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12205,7 +13453,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12231,11 +13479,37 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C5481312"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d49f7b0-5c03-4d4f-b8eb-834e9a7068e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b782cd41-14f3-45a8-a4a8-72a12bd0c0ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/f6ef96bb-44f2-4fe7-90f3-b50c663d1958")
 		(sheetname "/")
 		(sheetfile "aeroboard.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 5.37 -3.22)
 			(end 5.37 4.62)
@@ -12565,7 +13839,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12587,6 +13861,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf96b170-d2f7-4a73-87ea-dd4e2dc3e496")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2296"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ced7ce6f-55a9-4974-b1d7-6938a87cd36d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e12a0376-c351-4f62-9cc0-cdfb1e278e02")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12788,7 +14101,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12810,6 +14123,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17737"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "991dc316-4ed2-43e6-9b82-1b09d332f37f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "de55ae95-bb12-45da-8f56-e3eeda0d86bf")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12989,7 +14328,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13011,6 +14350,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bc55e59d-5d4c-4a55-806d-1dc6f861bce5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2296"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "45d2ee44-6cb3-4237-b3bf-16a270ade38d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c4638106-caf6-4360-8382-64fb00942de1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13214,7 +14592,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13236,6 +14614,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C16214"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ff96cb12-58f4-4ad4-b297-0f2987bfe0d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54dae4ce-958f-4b8e-9835-4360ff31595f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13773,7 +15177,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13795,6 +15199,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C131337"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1b620c93-d691-44e2-adc7-e23d05ae1d09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "22f8e3b7-d51c-490c-ae36-ba0bc2465e4f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -14229,7 +15659,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14251,6 +15681,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17630"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c8834efe-0f14-47a3-82e5-ff3fe121fe29")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "25fefb84-ef86-4aef-b139-4a5c4f6bf76d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -14430,7 +15886,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14452,6 +15908,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17630"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1616aef7-5fdf-4d20-9f3b-4374d6a8ca2d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "afddc9aa-7bf4-4d90-ab47-d91def09ab75")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -14632,7 +16114,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14654,6 +16136,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C13585"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a1bf6c1e-a100-4f87-91c7-6ba67fe97c47")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "698fb3d0-3827-4939-a329-24588aeffa37")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -14834,7 +16342,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14856,6 +16364,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C131337"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "848f1289-88c7-4b0f-9cf8-328246b717ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54e4f711-d258-4819-8c5f-a56b0fcb8118")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -15292,7 +16826,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15314,6 +16848,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "56a53ee1-a475-4f0a-8dc2-f2bd897b70a3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9d685ed9-c297-42f0-8925-f37ca579e6bb")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -15443,7 +17003,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15469,11 +17029,37 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C5481312"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c920ef5a-bbb3-4911-b352-7d439fc24ba5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5114c237-7fa2-4ba6-82f3-47b3240d0de8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/8d79ce37-22b3-4587-a324-1300be8c069c")
 		(sheetname "/")
 		(sheetfile "aeroboard.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 5.37 -3.22)
 			(end 5.37 4.62)
@@ -15804,7 +17390,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15826,6 +17412,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C131337"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3c587a07-2d91-46e6-8b77-5df138b832bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8358b2d-9e49-403b-ae8b-80de424f8051")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16260,7 +17872,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16282,6 +17894,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0d7971a5-6f58-418b-8cd2-08ac46d5893a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2296"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "03fc766b-90d1-4c03-ab93-c1cd3f8f5c74")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0828dc94-016a-4080-ae1a-c46a1c11ed77")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16483,7 +18134,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16505,6 +18156,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17630"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aad15712-49e0-44ec-a3c0-928e7e8428dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "99b96281-2df1-4e63-9709-b7ce02474ab9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16858,7 +18535,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16880,6 +18557,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C124375"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1c88b212-0f84-4b2d-916f-66d080e39be5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "90"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1d853ad8-3ee0-47f9-99d0-ddbc3c23c822")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17114,7 +18817,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17136,6 +18839,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C124375"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c4913ebf-9059-4a66-90cb-2ce959cdbc08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "90"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27bff4a4-71c7-4062-a811-81caa3d3bc7c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17369,7 +19098,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17391,6 +19120,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C149504"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d5ef2d28-f672-4727-8803-dfafa41c2c48")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "22b87f1d-ec3c-4f91-9636-c653fd828d98")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17570,7 +19325,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17592,6 +19347,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17630"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "65ec4201-f4f2-4f70-87df-25277bf20d25")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c825d98-2ac4-40a4-98c5-6d6e837e4307")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17773,7 +19554,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17795,6 +19576,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "740ef929-ce47-4b3f-8b3f-135e4f54e916")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f44b6e00-ced1-4ba4-bbe5-35dff98948e6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17943,6 +19750,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "720b0fd9-c8e8-48d4-b763-f6182cd4ee7e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4955d39-fbbb-4288-8564-9b6375fd1ce7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20065,7 +21898,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20087,6 +21920,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17737"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b0fd5b1-3307-4b19-ac86-127ce7b72f8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b12f04fe-7d95-4d79-8433-c33acbe82e88")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20268,7 +22127,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20313,6 +22172,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "88c074f3-cef6-47dc-8e31-9e82770b8aa3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C191023"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "061ffe2d-421b-4a31-ba3c-253c99fcfb09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "95bbe151-4a7f-422b-8d87-b0a82f169493")
 			(effects
 				(font
 					(size 1 1)
@@ -20590,6 +22475,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C53550"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7703d11a-db43-40e1-ab6d-13290572818d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6cd04a7c-79fa-4062-b7b9-6546196f2fa7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20897,7 +22808,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20919,6 +22830,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1bac806f-7917-4c7c-bdf4-3a563cd58c11")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "047b7f41-51d0-4608-8da0-895e69be0336")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21047,7 +22984,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21069,6 +23006,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C28233"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e86db653-2ed0-4c0e-a863-e95b192882c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "28cf92aa-48b0-4b80-98ee-830d8348bb5f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21249,7 +23212,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21271,6 +23234,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C160390 "
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "283cb7b6-ddb2-400a-adab-45fd42992c74")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f52a06fc-cc61-4dfa-8919-0c07d6a71b12")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21710,7 +23699,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21732,6 +23721,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17630"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f1fbbcfa-973f-4f78-be25-bb599bc0d37f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "59dfff51-f64a-4ed4-b2f8-a23bcb553d30")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21913,7 +23928,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21935,6 +23950,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5f99965a-4c2d-4e27-bced-5393f7a62318")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2296"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "694ed212-13fa-45d1-8d66-f106527698a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "459bcffd-5e00-4b64-9a0d-10a4bf03c97a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -22137,7 +24191,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22159,6 +24213,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C124375"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b1cc177b-4433-4e25-9204-5f9a2448b4e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "90"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "09d3cab4-cae9-40bf-9156-abd037a6b9db")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -22392,7 +24472,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22414,6 +24494,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C149504"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "70d7e908-f127-4711-809c-e8235a52ca5d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0b50c8df-2358-425c-9678-30c985586296")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -22595,7 +24701,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22617,6 +24723,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8c43784b-9611-48c4-9304-4d3266104dc5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d69a18e8-0f26-4de5-b432-ed821870070b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -22767,6 +24899,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C53550"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "30014fc5-9712-49c1-95c5-697d09ad0ca6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e2adc6a8-9ce5-41dc-b65d-9c905fd04a0f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -23073,7 +25231,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23099,11 +25257,37 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C5481312"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bb58b961-d6ec-4e57-b13f-c02c5e0dac13")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "381e6590-2d5f-4076-8619-281538029950")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/5d73d1e7-280c-41a6-97c8-4ff041ea67fb")
 		(sheetname "/")
 		(sheetfile "aeroboard.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 5.37 -3.22)
 			(end 5.37 4.62)
@@ -23433,7 +25617,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23455,6 +25639,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17630"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1c9a8d08-e766-479e-b46f-9914053a0356")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7c8f8b59-4448-4059-9dc3-4812541c87a4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -23656,6 +25866,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C53550"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6728821-ae10-4a73-87c1-0b929e4d56a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bbe4a7fb-5f59-4f1a-b431-13edc21eba2f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -23988,6 +26224,32 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C53550"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f1142b4-b54d-44e0-8eea-875fb1e0c48e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2934eb73-a4ac-4a9c-9175-25f5516ce2ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/72da851d-d7ea-4712-ab89-7120ddd9cf23")
 		(sheetname "/")
@@ -24289,7 +26551,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24311,6 +26573,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5502a5ee-b7a4-4f8b-a894-4ed8f2997840")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2296"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9ed78bda-2933-4fb6-8410-a2ec97e2ea1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "de15e467-50bc-4a7e-96e8-41b1329df758")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -24534,6 +26835,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C53550"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a2f1b31d-7bdb-4796-86f6-bf32367ff35e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "812760fc-cf06-4fae-9153-a4d3af4edec6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -24839,7 +27166,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24861,6 +27188,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b570390-d981-47cc-9638-afa4792cc067")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2296"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "857f9961-0f41-4489-9a81-e3fd3570d89b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2a7e0658-6829-4ce6-bea8-7373d641515c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -25062,7 +27428,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25084,6 +27450,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C17630"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "13cc780c-a968-4c58-9240-b9fbdc671df9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c26568a7-0c5b-4ee3-8e28-fa278ed18015")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -25265,7 +27657,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25310,6 +27702,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "514f94f8-030a-4b74-be15-ca7fd53fff01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C191023"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "005824d5-28b0-4a54-b221-4d8936b2806e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5367e040-9d4e-4786-ba44-7072a6d9bf20")
 			(effects
 				(font
 					(size 1 1)
@@ -25564,7 +27982,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25586,6 +28004,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C149504"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "68e76e55-590b-4024-bf7c-f0a9c0151285")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "791de051-8827-44c9-9205-e244abfc91cf")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -25787,6 +28231,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C53550"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b6db3cf-6855-4a82-8fac-8229da22e1bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0d09ed4e-7877-4fb8-9cdd-35929f57bb30")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -26118,6 +28588,32 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C53550"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4db319c-6ff0-46e0-bfd2-2c2d63564e90")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "46cce37b-da52-481d-9f67-7429cb00fa94")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/c5e7b6b7-c434-456b-ad7f-aa0b1453fc25")
 		(sheetname "/")
@@ -26445,6 +28941,32 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" "C53550"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3405ca2f-bcc2-423a-aa12-b03c3696934b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "272eb5f1-fcaa-4a5b-be09-baf828e3fa9d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/407e9cbd-1e9d-477e-b47f-19c2ebf4a353")
 		(sheetname "/")
@@ -26747,7 +29269,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26769,6 +29291,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C131337"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ff486ee-121e-4408-acf1-1537012faa57")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7f261a10-2046-4680-959c-8c117c27837b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -29392,28 +31940,28 @@
 		(uuid "09da9a79-a905-42b3-a885-6d36febf9037")
 	)
 	(segment
-		(start 114.02 129.25)
-		(end 114.02 128.52)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 68)
-		(uuid "4c5120e1-974a-480f-a996-915844c7112c")
-	)
-	(segment
-		(start 114.02 128.52)
-		(end 111.5 126)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 68)
-		(uuid "69208e6e-c124-414a-bfe4-3e4893bcad79")
-	)
-	(segment
 		(start 111 126)
 		(end 111.5 126)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 68)
 		(uuid "942b4b14-171c-4326-aace-d394a305caef")
+	)
+	(segment
+		(start 111.5 126)
+		(end 115.025 126)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 68)
+		(uuid "bc97a75b-0b00-4814-9a0d-9aa2a8cee359")
+	)
+	(segment
+		(start 115.025 126)
+		(end 115.775 126.75)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 68)
+		(uuid "f3376069-507d-465b-b116-2cfc4aeca062")
 	)
 	(via
 		(at 109.5 124.5)
@@ -30779,23 +33327,24 @@
 				(xy 98.399499 116.279057) (xy 98.399499 116.279059) (xy 98.3995 116.289053) (xy 98.3995 126.685872)
 				(xy 98.379815 126.752911) (xy 98.363181 126.773553) (xy 97.038497 128.098236) (xy 96.977174 128.131721)
 				(xy 96.907482 128.126737) (xy 96.851549 128.084865) (xy 96.833111 128.049561) (xy 96.781784 127.894666)
-				(xy 96.689682 127.745344) (xy 96.565626 127.621288) (xy 96.416304 127.529186) (xy 96.249767 127.474001)
-				(xy 96.249765 127.474) (xy 96.14698 127.4635) (xy 95.096968 127.4635) (xy 95.09695 127.463501) (xy 94.994173 127.474)
-				(xy 94.99417 127.474001) (xy 94.827638 127.529185) (xy 94.827633 127.529187) (xy 94.678312 127.621289)
-				(xy 94.554259 127.745342) (xy 94.517711 127.804597) (xy 94.465763 127.851321) (xy 94.412172 127.8635)
-				(xy 92.996114 127.8635) (xy 92.929075 127.843815) (xy 92.890576 127.804597) (xy 92.883283 127.792774)
-				(xy 92.870682 127.772344) (xy 92.746626 127.648288) (xy 92.597304 127.556186) (xy 92.430767 127.501001)
-				(xy 92.430765 127.501) (xy 92.32798 127.4905) (xy 91.327968 127.4905) (xy 91.32795 127.490501) (xy 91.225173 127.501)
-				(xy 91.22517 127.501001) (xy 91.058638 127.556185) (xy 91.058633 127.556187) (xy 90.909312 127.648289)
-				(xy 90.785258 127.772343) (xy 90.785257 127.772345) (xy 90.74316 127.840596) (xy 90.691212 127.887321)
-				(xy 90.637621 127.8995) (xy 87.348278 127.8995) (xy 87.281239 127.879815) (xy 87.260596 127.86318)
-				(xy 87.22934 127.831923) (xy 87.229332 127.831917) (xy 87.087866 127.748255) (xy 87.087863 127.748254)
-				(xy 86.930043 127.702402) (xy 86.930037 127.702401) (xy 86.893171 127.6995) (xy 86.893164 127.6995)
-				(xy 85.72697 127.6995) (xy 85.718284 127.696949) (xy 85.709323 127.698238) (xy 85.685282 127.687259)
-				(xy 85.659931 127.679815) (xy 85.654003 127.672974) (xy 85.645767 127.669213) (xy 85.631477 127.646978)
-				(xy 85.614176 127.627011) (xy 85.611888 127.616496) (xy 85.607993 127.610435) (xy 85.60297 127.5755)
-				(xy 85.60297 127.524) (xy 85.622655 127.456961) (xy 85.675459 127.411206) (xy 85.72697 127.4) (xy 85.98997 127.4)
-				(xy 86.48997 127.4) (xy 86.893104 127.4) (xy 86.893119 127.399999) (xy 86.929959 127.3971) (xy 86.929965 127.397099)
+				(xy 96.689682 127.745344) (xy 96.565626 127.621288) (xy 96.450051 127.550001) (xy 96.416306 127.529187)
+				(xy 96.416301 127.529185) (xy 96.400654 127.524) (xy 96.249767 127.474001) (xy 96.249765 127.474)
+				(xy 96.14698 127.4635) (xy 95.096968 127.4635) (xy 95.09695 127.463501) (xy 94.994173 127.474) (xy 94.99417 127.474001)
+				(xy 94.827638 127.529185) (xy 94.827633 127.529187) (xy 94.678312 127.621289) (xy 94.554259 127.745342)
+				(xy 94.517711 127.804597) (xy 94.465763 127.851321) (xy 94.412172 127.8635) (xy 92.996114 127.8635)
+				(xy 92.929075 127.843815) (xy 92.890576 127.804597) (xy 92.883283 127.792774) (xy 92.870682 127.772344)
+				(xy 92.746626 127.648288) (xy 92.597304 127.556186) (xy 92.430767 127.501001) (xy 92.430765 127.501)
+				(xy 92.32798 127.4905) (xy 91.327968 127.4905) (xy 91.32795 127.490501) (xy 91.225173 127.501) (xy 91.22517 127.501001)
+				(xy 91.058638 127.556185) (xy 91.058633 127.556187) (xy 90.909312 127.648289) (xy 90.785258 127.772343)
+				(xy 90.785257 127.772345) (xy 90.74316 127.840596) (xy 90.691212 127.887321) (xy 90.637621 127.8995)
+				(xy 87.348278 127.8995) (xy 87.281239 127.879815) (xy 87.260596 127.86318) (xy 87.22934 127.831923)
+				(xy 87.229332 127.831917) (xy 87.087866 127.748255) (xy 87.087863 127.748254) (xy 86.930043 127.702402)
+				(xy 86.930037 127.702401) (xy 86.893171 127.6995) (xy 86.893164 127.6995) (xy 85.72697 127.6995)
+				(xy 85.718284 127.696949) (xy 85.709323 127.698238) (xy 85.685282 127.687259) (xy 85.659931 127.679815)
+				(xy 85.654003 127.672974) (xy 85.645767 127.669213) (xy 85.631477 127.646978) (xy 85.614176 127.627011)
+				(xy 85.611888 127.616496) (xy 85.607993 127.610435) (xy 85.60297 127.5755) (xy 85.60297 127.524)
+				(xy 85.622655 127.456961) (xy 85.675459 127.411206) (xy 85.72697 127.4) (xy 85.98997 127.4) (xy 86.48997 127.4)
+				(xy 86.893104 127.4) (xy 86.893119 127.399999) (xy 86.929959 127.3971) (xy 86.929965 127.397099)
 				(xy 87.087663 127.351283) (xy 87.087666 127.351282) (xy 87.229022 127.267685) (xy 87.229031 127.267678)
 				(xy 87.345148 127.151561) (xy 87.345155 127.151552) (xy 87.428751 127.010198) (xy 87.47457 126.852486)
 				(xy 87.474765 126.850001) (xy 87.474765 126.85) (xy 86.48997 126.85) (xy 86.48997 127.4) (xy 85.98997 127.4)
@@ -30854,7 +33403,7 @@
 				(xy 78.977217 126.408316) (xy 78.977212 126.40831) (xy 78.819599 126.250697) (xy 78.819592 126.250691)
 				(xy 78.642752 126.114998) (xy 78.64275 126.114997) (xy 78.642744 126.114992) (xy 78.449696 126.003535)
 				(xy 78.449692 126.003533) (xy 78.24376 125.918233) (xy 78.243753 125.918231) (xy 78.243751 125.91823)
-				(xy 78.028433 125.860536) (xy 77.939396 125.848814) (xy 77.870906 125.839797) (xy 77.80701 125.81153)
+				(xy 78.028433 125.860536) (xy 77.927136 125.8472) (xy 77.870906 125.839797) (xy 77.80701 125.81153)
 				(xy 77.768539 125.753206) (xy 77.767708 125.683341) (xy 77.772525 125.669421) (xy 77.80968 125.579721)
 				(xy 77.867374 125.364403) (xy 77.89647 125.143397) (xy 77.89647 124.920483) (xy 77.867374 124.699477)
 				(xy 77.80968 124.484159) (xy 77.724375 124.278214) (xy 77.612918 124.085166) (xy 77.551105 124.004609)
@@ -30880,7 +33429,7 @@
 				(xy 73.110164 126.865356) (xy 73.04387 126.887421) (xy 73.039443 126.8875) (xy 69.4462 126.8875)
 				(xy 69.379161 126.867815) (xy 69.358519 126.851181) (xy 68.463788 125.95645) (xy 68.430303 125.895127)
 				(xy 68.427469 125.868769) (xy 68.427469 125.205998) (xy 68.427468 125.205981) (xy 68.416969 125.103203)
-				(xy 68.416968 125.1032) (xy 68.400233 125.052697) (xy 68.361784 124.936666) (xy 68.269682 124.787344)
+				(xy 68.416968 125.1032) (xy 68.408109 125.076465) (xy 68.361784 124.936666) (xy 68.269682 124.787344)
 				(xy 68.145626 124.663288) (xy 68.052858 124.606069) (xy 67.996306 124.571187) (xy 67.996301 124.571185)
 				(xy 67.994832 124.570698) (xy 67.829767 124.516001) (xy 67.829765 124.516) (xy 67.72698 124.5055)
 				(xy 66.376968 124.5055) (xy 66.376951 124.505501) (xy 66.274173 124.516) (xy 66.27417 124.516001)
@@ -30892,10 +33441,10 @@
 				(xy 66.012009 126.581831) (xy 66.022513 126.58831) (xy 66.069238 126.640258) (xy 66.080459 126.709221)
 				(xy 66.052616 126.773303) (xy 66.045098 126.78153) (xy 65.937555 126.889073) (xy 65.835738 127.029211)
 				(xy 65.757098 127.183552) (xy 65.703567 127.348302) (xy 65.67647 127.519389) (xy 65.67647 127.69261)
-				(xy 65.702981 127.86) (xy 65.703568 127.863701) (xy 65.757097 128.028445) (xy 65.835738 128.182788)
+				(xy 65.699908 127.840596) (xy 65.703568 127.863701) (xy 65.757097 128.028445) (xy 65.835738 128.182788)
 				(xy 65.937556 128.322928) (xy 66.060042 128.445414) (xy 66.200182 128.547232) (xy 66.354525 128.625873)
 				(xy 66.519269 128.679402) (xy 66.690359 128.7065) (xy 67.03974 128.7065) (xy 67.106779 128.726185)
-				(xy 67.127421 128.742819) (xy 68.637556 130.252954) (xy 68.655913 130.265219) (xy 68.70722 130.2995)
+				(xy 67.127421 128.742819) (xy 68.637556 130.252954) (xy 68.66542 130.271571) (xy 68.70722 130.2995)
 				(xy 68.760475 130.335084) (xy 68.760477 130.335085) (xy 68.760481 130.335087) (xy 68.897052 130.391656)
 				(xy 68.897057 130.391658) (xy 68.897061 130.391658) (xy 68.897062 130.391659) (xy 69.042049 130.4205)
 				(xy 69.042052 130.4205) (xy 75.63183 130.4205) (xy 75.707133 130.405521) (xy 75.756185 130.395763)
@@ -30939,7 +33488,7 @@
 				(xy 96.781784 130.933334) (xy 96.836969 130.766797) (xy 96.84747 130.664009) (xy 96.847469 130.063992)
 				(xy 96.846389 130.05342) (xy 96.859158 129.984728) (xy 96.882063 129.95314) (xy 99.358506 127.476698)
 				(xy 99.358511 127.476694) (xy 99.368714 127.46649) (xy 99.368716 127.46649) (xy 99.48052 127.354686)
-				(xy 99.552355 127.230263) (xy 99.559577 127.217755) (xy 99.600501 127.065027) (xy 99.600501 126.906913)
+				(xy 99.544906 127.243166) (xy 99.559577 127.217755) (xy 99.600501 127.065027) (xy 99.600501 126.906913)
 				(xy 99.600501 126.899318) (xy 99.6005 126.8993) (xy 99.6005 116.500096) (xy 99.620185 116.433057)
 				(xy 99.636814 116.41242) (xy 101.286321 114.762912) (xy 101.347642 114.729429) (xy 101.417334 114.734413)
 				(xy 101.473267 114.776285) (xy 101.497684 114.841749) (xy 101.498 114.850595) (xy 101.498 115.32)
@@ -31452,51 +34001,7 @@
 				(xy 106.20188 132.634358) (xy 106.368302 132.689505) (xy 106.368309 132.689506) (xy 106.471019 132.699999)
 				(xy 106.533499 132.699998) (xy 106.5335 132.699998) (xy 106.5335 131.75) (xy 105.771001 131.75)
 				(xy 105.771001 131.999986) (xy 105.2485 131.999986) (xy 105.2485 131.000013) (xy 105.771 131.000013)
-				(xy 105.771 131.25) (xy 106.5335 131.25) (xy 106.5335 130.3) (xy 106.533499 130.299999) (xy 106.471028 130.3)
-				(xy 106.471011 130.300001) (xy 106.368302 130.310494) (xy 106.20188 130.365641) (xy 106.201875 130.365643)
-				(xy 106.052654 130.457684) (xy 105.928684 130.581654) (xy 105.836643 130.730875) (xy 105.836641 130.73088)
-				(xy 105.781494 130.897302) (xy 105.781493 130.897309) (xy 105.771 131.000013) (xy 105.2485 131.000013)
-				(xy 105.2485 128.824424) (xy 105.268185 128.757385) (xy 105.320989 128.71163) (xy 105.390147 128.701686)
-				(xy 105.419952 128.709863) (xy 105.564498 128.769735) (xy 105.564503 128.769737) (xy 105.719153 128.800499)
-				(xy 105.719156 128.8005) (xy 105.719158 128.8005) (xy 105.876844 128.8005) (xy 105.876845 128.800499)
-				(xy 106.031497 128.769737) (xy 106.144166 128.723067) (xy 106.177172 128.709397) (xy 106.177172 128.709396)
-				(xy 106.177179 128.709394) (xy 106.257734 128.655569) (xy 106.308875 128.621398) (xy 106.375553 128.60052)
-				(xy 106.377766 128.6005) (xy 110.45027 128.6005) (xy 110.517309 128.620185) (xy 110.537951 128.636819)
-				(xy 110.581344 128.680212) (xy 110.730666 128.772314) (xy 110.897203 128.827499) (xy 110.999991 128.838)
-				(xy 112.000008 128.837999) (xy 112.000016 128.837998) (xy 112.000019 128.837998) (xy 112.056302 128.832248)
-				(xy 112.102797 128.827499) (xy 112.269334 128.772314) (xy 112.418656 128.680212) (xy 112.532822 128.566045)
-				(xy 112.594141 128.532563) (xy 112.663833 128.537547) (xy 112.719767 128.579418) (xy 112.744184 128.644882)
-				(xy 112.7445 128.653729) (xy 112.7445 129.450001) (xy 112.744501 129.450019) (xy 112.755 129.552796)
-				(xy 112.755001 129.552799) (xy 112.80498 129.703624) (xy 112.810186 129.719334) (xy 112.902288 129.868656)
-				(xy 113.026344 129.992712) (xy 113.175666 130.084814) (xy 113.342203 130.139999) (xy 113.342213 130.14)
-				(xy 113.348827 130.141417) (xy 113.348651 130.142235) (xy 113.352712 130.141979) (xy 113.376945 130.155474)
-				(xy 113.402623 130.165946) (xy 113.407039 130.172233) (xy 113.413755 130.175973) (xy 113.426844 130.200426)
-				(xy 113.442785 130.223119) (xy 113.443101 130.230797) (xy 113.446728 130.237573) (xy 113.444519 130.265219)
-				(xy 113.445661 130.29293) (xy 113.441636 130.301312) (xy 113.441164 130.307221) (xy 113.432052 130.321269)
-				(xy 113.423992 130.338056) (xy 113.41893 130.344701) (xy 113.382288 130.381344) (xy 113.3451 130.441634)
-				(xy 113.341398 130.446496) (xy 113.317969 130.463732) (xy 113.296342 130.483184) (xy 113.290161 130.484189)
-				(xy 113.285118 130.4879) (xy 113.256086 130.489733) (xy 113.227379 130.494405) (xy 113.221637 130.49191)
-				(xy 113.215388 130.492305) (xy 113.189972 130.478151) (xy 113.163298 130.466561) (xy 113.155072 130.459043)
-				(xy 113.152003 130.455974) (xy 113.151999 130.455971) (xy 113.003933 130.364642) (xy 113.003927 130.364639)
-				(xy 113.003925 130.364638) (xy 112.971659 130.353946) (xy 112.838776 130.309913) (xy 112.736855 130.2995)
-				(xy 112.736848 130.2995) (xy 112.150152 130.2995) (xy 112.150144 130.2995) (xy 112.048223 130.309913)
-				(xy 111.883077 130.364637) (xy 111.883066 130.364642) (xy 111.735 130.455971) (xy 111.734996 130.455974)
-				(xy 111.611974 130.578996) (xy 111.611971 130.579) (xy 111.611538 130.579703) (xy 111.611114 130.580083)
-				(xy 111.607493 130.584664) (xy 111.60671 130.584045) (xy 111.55959 130.626428) (xy 111.490628 130.637649)
-				(xy 111.426546 130.609806) (xy 111.404657 130.584544) (xy 111.404507 130.584664) (xy 111.401859 130.581315)
-				(xy 111.400462 130.579703) (xy 111.400028 130.579) (xy 111.400025 130.578996) (xy 111.277003 130.455974)
-				(xy 111.276999 130.455971) (xy 111.128933 130.364642) (xy 111.128927 130.364639) (xy 111.128925 130.364638)
-				(xy 111.096659 130.353946) (xy 110.963776 130.309913) (xy 110.861855 130.2995) (xy 110.861848 130.2995)
-				(xy 110.275152 130.2995) (xy 110.275144 130.2995) (xy 110.173223 130.309913) (xy 110.008077 130.364637)
-				(xy 110.008066 130.364642) (xy 109.86 130.455971) (xy 109.859996 130.455974) (xy 109.736971 130.578999)
-				(xy 109.705155 130.630581) (xy 109.653207 130.677304) (xy 109.584244 130.688525) (xy 109.520162 130.660681)
-				(xy 109.494081 130.63058) (xy 109.463712 130.581344) (xy 109.339656 130.457288) (xy 109.217033 130.381654)
-				(xy 109.190336 130.365187) (xy 109.190331 130.365185) (xy 109.156411 130.353945) (xy 109.023797 130.310001)
-				(xy 109.023795 130.31) (xy 108.92101 130.2995) (xy 108.295998 130.2995) (xy 108.29598 130.299501)
-				(xy 108.193203 130.31) (xy 108.1932 130.310001) (xy 108.026668 130.365185) (xy 108.026663 130.365187)
-				(xy 107.877345 130.457287) (xy 107.783327 130.551305) (xy 107.722003 130.584789) (xy 107.652312 130.579805)
-				(xy 107.607965 130.551304) (xy 107.514345 130.457684) (xy 107.365124 130.365643) (xy 107.365119 130.365641)
-				(xy 107.198697 130.310494) (xy 107.19869 130.310493) (xy 107.095986 130.3) (xy 107.0335 130.3) (xy 107.0335 132.699999)
+				(xy 105.771 131.25) (xy 106.5335 131.25) (xy 106.5335 130.3) (xy 107.0335 130.3) (xy 107.0335 132.699999)
 				(xy 107.095972 132.699999) (xy 107.095986 132.699998) (xy 107.198697 132.689505) (xy 107.365119 132.634358)
 				(xy 107.365124 132.634356) (xy 107.514342 132.542317) (xy 107.607964 132.448695) (xy 107.669287 132.41521)
 				(xy 107.738979 132.420194) (xy 107.783327 132.448695) (xy 107.877344 132.542712) (xy 108.026666 132.634814)
@@ -31612,67 +34117,90 @@
 				(xy 116.240643 130.530875) (xy 116.240641 130.53088) (xy 116.185494 130.697302) (xy 116.185493 130.697309)
 				(xy 116.175 130.800013) (xy 115.375499 130.800013) (xy 115.375499 130.799998) (xy 115.375498 130.799981)
 				(xy 115.364999 130.697203) (xy 115.364998 130.6972) (xy 115.354002 130.664016) (xy 115.309814 130.530666)
-				(xy 115.217712 130.381344) (xy 115.093656 130.257288) (xy 115.010286 130.205865) (xy 114.963563 130.153918)
-				(xy 114.95234 130.084955) (xy 114.980184 130.020873) (xy 115.010292 129.994786) (xy 115.013656 129.992712)
-				(xy 115.137712 129.868656) (xy 115.229814 129.719334) (xy 115.284999 129.552797) (xy 115.2955 129.450009)
-				(xy 115.295499 128.549992) (xy 115.295498 128.549983) (xy 120.7045 128.549983) (xy 120.7045 129.450001)
-				(xy 120.704501 129.450019) (xy 120.715 129.552796) (xy 120.715001 129.552799) (xy 120.76498 129.703624)
-				(xy 120.770186 129.719334) (xy 120.862288 129.868656) (xy 120.986344 129.992712) (xy 121.135666 130.084814)
-				(xy 121.302203 130.139999) (xy 121.404991 130.1505) (xy 122.555008 130.150499) (xy 122.657797 130.139999)
-				(xy 122.824334 130.084814) (xy 122.973656 129.992712) (xy 123.097712 129.868656) (xy 123.189814 129.719334)
-				(xy 123.244999 129.552797) (xy 123.2555 129.450009) (xy 123.255499 128.549992) (xy 123.244999 128.447203)
-				(xy 123.189814 128.280666) (xy 123.097712 128.131344) (xy 122.973656 128.007288) (xy 122.824334 127.915186)
-				(xy 122.657797 127.860001) (xy 122.657795 127.86) (xy 122.55501 127.8495) (xy 121.404998 127.8495)
-				(xy 121.404981 127.849501) (xy 121.302203 127.86) (xy 121.3022 127.860001) (xy 121.135668 127.915185)
-				(xy 121.135663 127.915187) (xy 120.986342 128.007289) (xy 120.862289 128.131342) (xy 120.770187 128.280663)
-				(xy 120.770185 128.280668) (xy 120.763201 128.301744) (xy 120.715001 128.447203) (xy 120.715001 128.447204)
-				(xy 120.715 128.447204) (xy 120.7045 128.549983) (xy 115.295498 128.549983) (xy 115.284999 128.447203)
-				(xy 115.229814 128.280666) (xy 115.137712 128.131344) (xy 115.013656 128.007288) (xy 114.864334 127.915186)
-				(xy 114.697797 127.860001) (xy 114.697795 127.86) (xy 114.595016 127.8495) (xy 114.595009 127.8495)
-				(xy 114.250097 127.8495) (xy 114.183058 127.829815) (xy 114.162416 127.813181) (xy 112.736818 126.387583)
-				(xy 112.703333 126.32626) (xy 112.700499 126.299911) (xy 112.700499 125.687492) (xy 112.698651 125.669405)
-				(xy 112.689999 125.584703) (xy 112.689998 125.5847) (xy 112.680017 125.55458) (xy 112.634814 125.418166)
-				(xy 112.542712 125.268844) (xy 112.418656 125.144788) (xy 112.269352 125.052697) (xy 112.269336 125.052687)
-				(xy 112.269331 125.052685) (xy 112.267862 125.052198) (xy 112.102797 124.997501) (xy 112.102795 124.9975)
+				(xy 115.217712 130.381344) (xy 115.093656 130.257288) (xy 114.990579 130.19371) (xy 114.944336 130.165187)
+				(xy 114.944331 130.165185) (xy 114.942862 130.164698) (xy 114.777797 130.110001) (xy 114.777795 130.11)
+				(xy 114.67501 130.0995) (xy 113.924998 130.0995) (xy 113.92498 130.099501) (xy 113.822203 130.11)
+				(xy 113.8222 130.110001) (xy 113.655668 130.165185) (xy 113.655663 130.165187) (xy 113.506342 130.257289)
+				(xy 113.382287 130.381344) (xy 113.348291 130.43646) (xy 113.296342 130.483184) (xy 113.227379 130.494405)
+				(xy 113.163298 130.466561) (xy 113.155072 130.459043) (xy 113.152003 130.455974) (xy 113.151999 130.455971)
+				(xy 113.003933 130.364642) (xy 113.003927 130.364639) (xy 113.003925 130.364638) (xy 112.971659 130.353946)
+				(xy 112.838776 130.309913) (xy 112.736855 130.2995) (xy 112.736848 130.2995) (xy 112.150152 130.2995)
+				(xy 112.150144 130.2995) (xy 112.048223 130.309913) (xy 111.883077 130.364637) (xy 111.883066 130.364642)
+				(xy 111.735 130.455971) (xy 111.734996 130.455974) (xy 111.611974 130.578996) (xy 111.611971 130.579)
+				(xy 111.611538 130.579703) (xy 111.611114 130.580083) (xy 111.607493 130.584664) (xy 111.60671 130.584045)
+				(xy 111.55959 130.626428) (xy 111.490628 130.637649) (xy 111.426546 130.609806) (xy 111.404657 130.584544)
+				(xy 111.404507 130.584664) (xy 111.401859 130.581315) (xy 111.400462 130.579703) (xy 111.400028 130.579)
+				(xy 111.400025 130.578996) (xy 111.277003 130.455974) (xy 111.276999 130.455971) (xy 111.128933 130.364642)
+				(xy 111.128927 130.364639) (xy 111.128925 130.364638) (xy 111.096659 130.353946) (xy 110.963776 130.309913)
+				(xy 110.861855 130.2995) (xy 110.861848 130.2995) (xy 110.275152 130.2995) (xy 110.275144 130.2995)
+				(xy 110.173223 130.309913) (xy 110.008077 130.364637) (xy 110.008066 130.364642) (xy 109.86 130.455971)
+				(xy 109.859996 130.455974) (xy 109.736971 130.578999) (xy 109.705155 130.630581) (xy 109.653207 130.677304)
+				(xy 109.584244 130.688525) (xy 109.520162 130.660681) (xy 109.494081 130.63058) (xy 109.463712 130.581344)
+				(xy 109.339656 130.457288) (xy 109.217033 130.381654) (xy 109.190336 130.365187) (xy 109.190331 130.365185)
+				(xy 109.156411 130.353945) (xy 109.023797 130.310001) (xy 109.023795 130.31) (xy 108.92101 130.2995)
+				(xy 108.295998 130.2995) (xy 108.29598 130.299501) (xy 108.193203 130.31) (xy 108.1932 130.310001)
+				(xy 108.026668 130.365185) (xy 108.026663 130.365187) (xy 107.877345 130.457287) (xy 107.783327 130.551305)
+				(xy 107.722003 130.584789) (xy 107.652312 130.579805) (xy 107.607965 130.551304) (xy 107.514345 130.457684)
+				(xy 107.365124 130.365643) (xy 107.365119 130.365641) (xy 107.198697 130.310494) (xy 107.19869 130.310493)
+				(xy 107.095986 130.3) (xy 107.0335 130.3) (xy 106.5335 130.3) (xy 106.533499 130.299999) (xy 106.471028 130.3)
+				(xy 106.471011 130.300001) (xy 106.368302 130.310494) (xy 106.20188 130.365641) (xy 106.201875 130.365643)
+				(xy 106.052654 130.457684) (xy 105.928684 130.581654) (xy 105.836643 130.730875) (xy 105.836641 130.73088)
+				(xy 105.781494 130.897302) (xy 105.781493 130.897309) (xy 105.771 131.000013) (xy 105.2485 131.000013)
+				(xy 105.2485 128.824424) (xy 105.268185 128.757385) (xy 105.320989 128.71163) (xy 105.390147 128.701686)
+				(xy 105.419952 128.709863) (xy 105.564498 128.769735) (xy 105.564503 128.769737) (xy 105.719153 128.800499)
+				(xy 105.719156 128.8005) (xy 105.719158 128.8005) (xy 105.876844 128.8005) (xy 105.876845 128.800499)
+				(xy 106.031497 128.769737) (xy 106.144166 128.723067) (xy 106.177172 128.709397) (xy 106.177172 128.709396)
+				(xy 106.177179 128.709394) (xy 106.257734 128.655569) (xy 106.308875 128.621398) (xy 106.375553 128.60052)
+				(xy 106.377766 128.6005) (xy 110.45027 128.6005) (xy 110.517309 128.620185) (xy 110.537951 128.636819)
+				(xy 110.581344 128.680212) (xy 110.730666 128.772314) (xy 110.897203 128.827499) (xy 110.999991 128.838)
+				(xy 112.000008 128.837999) (xy 112.000016 128.837998) (xy 112.000019 128.837998) (xy 112.056302 128.832248)
+				(xy 112.102797 128.827499) (xy 112.269334 128.772314) (xy 112.418656 128.680212) (xy 112.542712 128.556156)
+				(xy 112.634814 128.406834) (xy 112.689999 128.240297) (xy 112.7005 128.137509) (xy 112.700499 127.512492)
+				(xy 112.698252 127.4905) (xy 112.689999 127.409703) (xy 112.689998 127.4097) (xy 112.679693 127.378602)
+				(xy 112.634814 127.243166) (xy 112.542712 127.093844) (xy 112.449049 127.000181) (xy 112.447531 126.997402)
+				(xy 112.444831 126.99575) (xy 112.430896 126.966936) (xy 112.415564 126.938858) (xy 112.415789 126.9357)
+				(xy 112.414411 126.93285) (xy 112.418265 126.901083) (xy 112.420548 126.869166) (xy 112.42256 126.865687)
+				(xy 112.422827 126.863489) (xy 112.429673 126.853391) (xy 112.441249 126.833384) (xy 112.444947 126.82892)
+				(xy 112.542712 126.731156) (xy 112.591508 126.652043) (xy 112.597027 126.645384) (xy 112.619111 126.630492)
+				(xy 112.638917 126.612679) (xy 112.648892 126.610412) (xy 112.654958 126.606322) (xy 112.668172 126.60603)
+				(xy 112.692508 126.6005) (xy 114.6255 126.6005) (xy 114.692539 126.620185) (xy 114.738294 126.672989)
+				(xy 114.7495 126.7245) (xy 114.7495 127.550001) (xy 114.749501 127.550019) (xy 114.76 127.652796)
+				(xy 114.760001 127.652799) (xy 114.815185 127.819331) (xy 114.815187 127.819336) (xy 114.819468 127.826277)
+				(xy 114.907288 127.968656) (xy 115.031344 128.092712) (xy 115.180666 128.184814) (xy 115.347203 128.239999)
+				(xy 115.449991 128.2505) (xy 116.100008 128.250499) (xy 116.100016 128.250498) (xy 116.100019 128.250498)
+				(xy 116.156302 128.244748) (xy 116.202797 128.239999) (xy 116.369334 128.184814) (xy 116.518656 128.092712)
+				(xy 116.642712 127.968656) (xy 116.734814 127.819334) (xy 116.789999 127.652797) (xy 116.8005 127.550009)
+				(xy 116.8005 127.549986) (xy 119.200001 127.549986) (xy 119.210494 127.652697) (xy 119.265641 127.819119)
+				(xy 119.265643 127.819124) (xy 119.357684 127.968345) (xy 119.481654 128.092315) (xy 119.630875 128.184356)
+				(xy 119.63088 128.184358) (xy 119.797302 128.239505) (xy 119.797309 128.239506) (xy 119.900019 128.249999)
+				(xy 120.475 128.249999) (xy 120.549972 128.249999) (xy 120.549986 128.249998) (xy 120.652697 128.239505)
+				(xy 120.819119 128.184358) (xy 120.819124 128.184356) (xy 120.968345 128.092315) (xy 121.092315 127.968345)
+				(xy 121.184356 127.819124) (xy 121.184358 127.819119) (xy 121.239505 127.652697) (xy 121.239506 127.65269)
+				(xy 121.249999 127.549986) (xy 121.25 127.549973) (xy 121.25 127) (xy 120.475 127) (xy 120.475 128.249999)
+				(xy 119.900019 128.249999) (xy 119.974999 128.249998) (xy 119.975 128.249998) (xy 119.975 127) (xy 119.200001 127)
+				(xy 119.200001 127.549986) (xy 116.8005 127.549986) (xy 116.800499 126.7495) (xy 116.800499 125.950013)
+				(xy 119.2 125.950013) (xy 119.2 126.5) (xy 119.975 126.5) (xy 120.475 126.5) (xy 121.249999 126.5)
+				(xy 121.249999 125.950028) (xy 121.249998 125.950013) (xy 121.239505 125.847302) (xy 121.184358 125.68088)
+				(xy 121.184356 125.680875) (xy 121.092315 125.531654) (xy 120.968345 125.407684) (xy 120.819124 125.315643)
+				(xy 120.819119 125.315641) (xy 120.652697 125.260494) (xy 120.65269 125.260493) (xy 120.549986 125.25)
+				(xy 120.475 125.25) (xy 120.475 126.5) (xy 119.975 126.5) (xy 119.975 125.25) (xy 119.974999 125.249999)
+				(xy 119.900028 125.25) (xy 119.900011 125.250001) (xy 119.797302 125.260494) (xy 119.63088 125.315641)
+				(xy 119.630875 125.315643) (xy 119.481654 125.407684) (xy 119.357684 125.531654) (xy 119.265643 125.680875)
+				(xy 119.265641 125.68088) (xy 119.210494 125.847302) (xy 119.210493 125.847309) (xy 119.2 125.950013)
+				(xy 116.800499 125.950013) (xy 116.800499 125.949998) (xy 116.800498 125.949981) (xy 116.789999 125.847203)
+				(xy 116.789998 125.8472) (xy 116.774678 125.800967) (xy 116.734814 125.680666) (xy 116.642712 125.531344)
+				(xy 116.518656 125.407288) (xy 116.398253 125.333023) (xy 116.369336 125.315187) (xy 116.369331 125.315185)
+				(xy 116.325431 125.300638) (xy 116.202797 125.260001) (xy 116.202795 125.26) (xy 116.10001 125.2495)
+				(xy 115.449998 125.2495) (xy 115.44998 125.249501) (xy 115.347203 125.26) (xy 115.3472 125.260001)
+				(xy 115.180668 125.315185) (xy 115.180659 125.315189) (xy 115.073902 125.381038) (xy 115.057345 125.385733)
+				(xy 115.043743 125.394476) (xy 115.00881 125.399498) (xy 115.008808 125.399499) (xy 114.945943 125.399499)
+				(xy 114.945939 125.399499) (xy 114.938333 125.3995) (xy 114.938332 125.399499) (xy 114.938331 125.3995)
+				(xy 112.692508 125.3995) (xy 112.625469 125.379815) (xy 112.586969 125.340597) (xy 112.542712 125.268844)
+				(xy 112.418656 125.144788) (xy 112.269334 125.052686) (xy 112.102797 124.997501) (xy 112.102795 124.9975)
 				(xy 112.00001 124.987) (xy 110.999998 124.987) (xy 110.99998 124.987001) (xy 110.91003 124.99619)
-				(xy 110.908107 124.995832) (xy 110.906275 124.996516) (xy 110.873908 124.989474) (xy 110.841337 124.98342)
-				(xy 110.839306 124.981947) (xy 110.838002 124.981664) (xy 110.809748 124.960513) (xy 110.799221 124.949986)
-				(xy 112.745001 124.949986) (xy 112.755494 125.052697) (xy 112.810641 125.219119) (xy 112.810643 125.219124)
-				(xy 112.902684 125.368345) (xy 113.026654 125.492315) (xy 113.175875 125.584356) (xy 113.17588 125.584358)
-				(xy 113.342302 125.639505) (xy 113.342309 125.639506) (xy 113.445019 125.649999) (xy 113.769999 125.649999)
-				(xy 114.27 125.649999) (xy 114.594972 125.649999) (xy 114.594986 125.649998) (xy 114.697697 125.639505)
-				(xy 114.864119 125.584358) (xy 114.864124 125.584356) (xy 115.013345 125.492315) (xy 115.137315 125.368345)
-				(xy 115.229356 125.219124) (xy 115.229358 125.219119) (xy 115.284505 125.052697) (xy 115.284506 125.05269)
-				(xy 115.294999 124.949986) (xy 120.705001 124.949986) (xy 120.715494 125.052697) (xy 120.770641 125.219119)
-				(xy 120.770643 125.219124) (xy 120.862684 125.368345) (xy 120.986654 125.492315) (xy 121.135875 125.584356)
-				(xy 121.13588 125.584358) (xy 121.302302 125.639505) (xy 121.302309 125.639506) (xy 121.405019 125.649999)
-				(xy 121.729999 125.649999) (xy 122.23 125.649999) (xy 122.554972 125.649999) (xy 122.554986 125.649998)
-				(xy 122.657697 125.639505) (xy 122.824119 125.584358) (xy 122.824124 125.584356) (xy 122.973345 125.492315)
-				(xy 123.097315 125.368345) (xy 123.189356 125.219124) (xy 123.189358 125.219119) (xy 123.244505 125.052697)
-				(xy 123.244506 125.05269) (xy 123.254999 124.949986) (xy 123.255 124.949973) (xy 123.255 124.75)
-				(xy 122.23 124.75) (xy 122.23 125.649999) (xy 121.729999 125.649999) (xy 121.73 125.649998) (xy 121.73 124.75)
-				(xy 120.705001 124.75) (xy 120.705001 124.949986) (xy 115.294999 124.949986) (xy 115.295 124.949973)
-				(xy 115.295 124.75) (xy 114.27 124.75) (xy 114.27 125.649999) (xy 113.769999 125.649999) (xy 113.77 125.649998)
-				(xy 113.77 124.75) (xy 112.745001 124.75) (xy 112.745001 124.949986) (xy 110.799221 124.949986)
-				(xy 110.334574 124.485339) (xy 110.301089 124.424016) (xy 110.300638 124.421849) (xy 110.269738 124.26651)
-				(xy 110.269737 124.266503) (xy 110.243728 124.203711) (xy 110.209397 124.120827) (xy 110.209389 124.120813)
-				(xy 110.206008 124.115752) (xy 110.162082 124.050013) (xy 112.745 124.050013) (xy 112.745 124.25)
-				(xy 113.77 124.25) (xy 114.27 124.25) (xy 115.294999 124.25) (xy 115.294999 124.050029) (xy 115.294998 124.050013)
-				(xy 120.705 124.050013) (xy 120.705 124.25) (xy 121.73 124.25) (xy 122.23 124.25) (xy 123.254999 124.25)
-				(xy 123.254999 124.050028) (xy 123.254998 124.050013) (xy 123.244505 123.947302) (xy 123.189358 123.78088)
-				(xy 123.189356 123.780875) (xy 123.097315 123.631654) (xy 122.973345 123.507684) (xy 122.824124 123.415643)
-				(xy 122.824119 123.415641) (xy 122.657697 123.360494) (xy 122.65769 123.360493) (xy 122.554986 123.35)
-				(xy 122.23 123.35) (xy 122.23 124.25) (xy 121.73 124.25) (xy 121.73 123.35) (xy 121.405028 123.35)
-				(xy 121.405012 123.350001) (xy 121.302302 123.360494) (xy 121.13588 123.415641) (xy 121.135875 123.415643)
-				(xy 120.986654 123.507684) (xy 120.862684 123.631654) (xy 120.770643 123.780875) (xy 120.770641 123.78088)
-				(xy 120.715494 123.947302) (xy 120.715493 123.947309) (xy 120.705 124.050013) (xy 115.294998 124.050013)
-				(xy 115.294998 124.050012) (xy 115.284505 123.947302) (xy 115.229358 123.78088) (xy 115.229356 123.780875)
-				(xy 115.137315 123.631654) (xy 115.013345 123.507684) (xy 114.864124 123.415643) (xy 114.864119 123.415641)
-				(xy 114.697697 123.360494) (xy 114.69769 123.360493) (xy 114.594986 123.35) (xy 114.27 123.35) (xy 114.27 124.25)
-				(xy 113.77 124.25) (xy 113.77 123.35) (xy 113.445028 123.35) (xy 113.445012 123.350001) (xy 113.342302 123.360494)
-				(xy 113.17588 123.415641) (xy 113.175875 123.415643) (xy 113.026654 123.507684) (xy 112.902684 123.631654)
-				(xy 112.810643 123.780875) (xy 112.810641 123.78088) (xy 112.755494 123.947302) (xy 112.755493 123.947309)
-				(xy 112.745 124.050013) (xy 110.162082 124.050013) (xy 110.121789 123.989711) (xy 110.121786 123.989707)
+				(xy 110.841337 124.98342) (xy 110.809748 124.960513) (xy 110.334574 124.485339) (xy 110.301089 124.424016)
+				(xy 110.300638 124.421849) (xy 110.269738 124.26651) (xy 110.269737 124.266503) (xy 110.243728 124.203711)
+				(xy 110.209397 124.120827) (xy 110.20939 124.120814) (xy 110.121789 123.989711) (xy 110.121786 123.989707)
 				(xy 110.010292 123.878213) (xy 110.010288 123.87821) (xy 109.879185 123.790609) (xy 109.879172 123.790602)
 				(xy 109.733501 123.730264) (xy 109.733489 123.730261) (xy 109.578845 123.6995) (xy 109.578842 123.6995)
 				(xy 109.421158 123.6995) (xy 109.421155 123.6995) (xy 109.26651 123.730261) (xy 109.266498 123.730264)
@@ -31681,7 +34209,7 @@
 				(xy 108.730264 124.266498) (xy 108.730261 124.26651) (xy 108.6995 124.421153) (xy 108.6995 124.578846)
 				(xy 108.730261 124.733489) (xy 108.730264 124.733501) (xy 108.790602 124.879172) (xy 108.790609 124.879185)
 				(xy 108.87821 125.010288) (xy 108.878213 125.010292) (xy 108.989707 125.121786) (xy 108.989711 125.121789)
-				(xy 109.120814 125.20939) (xy 109.120827 125.209397) (xy 109.17108 125.230212) (xy 109.266503 125.269737)
+				(xy 109.120814 125.20939) (xy 109.120827 125.209397) (xy 109.242998 125.260001) (xy 109.266503 125.269737)
 				(xy 109.331147 125.282595) (xy 109.421849 125.300638) (xy 109.48376 125.333023) (xy 109.485339 125.334574)
 				(xy 110.263181 126.112416) (xy 110.296666 126.173739) (xy 110.2995 126.200096) (xy 110.2995 126.3125)
 				(xy 110.299501 126.312519) (xy 110.31 126.415296) (xy 110.310001 126.415299) (xy 110.365185 126.581831)
@@ -31974,82 +34502,82 @@
 				(xy 133.674277 127.051593) (xy 133.674273 127.051595) (xy 133.481226 127.163052) (xy 133.481217 127.163058)
 				(xy 133.304377 127.298751) (xy 133.30437 127.298757) (xy 133.146757 127.45637) (xy 133.146751 127.456377)
 				(xy 133.011058 127.633217) (xy 133.011052 127.633226) (xy 132.899595 127.826273) (xy 132.899593 127.826277)
-				(xy 132.814293 128.032209) (xy 132.81429 128.032219) (xy 132.756597 128.247534) (xy 132.756594 128.247547)
-				(xy 132.727501 128.468533) (xy 132.7275 128.468549) (xy 132.7275 128.69145) (xy 132.727501 128.691466)
-				(xy 132.756594 128.912452) (xy 132.756595 128.912457) (xy 132.756596 128.912463) (xy 132.809727 129.11075)
-				(xy 132.81429 129.127781) (xy 132.846051 129.204459) (xy 132.85352 129.273928) (xy 132.822245 129.336407)
-				(xy 132.819171 129.339592) (xy 131.687084 130.471681) (xy 131.625761 130.505166) (xy 131.599403 130.508)
-				(xy 130.157775 130.508) (xy 130.090736 130.488315) (xy 130.070093 130.47168) (xy 130.031203 130.432789)
-				(xy 130.031194 130.432782) (xy 129.917667 130.365643) (xy 129.897887 130.353945) (xy 129.749156 130.310735)
-				(xy 129.749153 130.310734) (xy 129.749151 130.310734) (xy 129.718395 130.308314) (xy 129.714405 130.308)
-				(xy 129.714404 130.308) (xy 129.365606 130.308) (xy 129.365584 130.308001) (xy 129.330847 130.310734)
-				(xy 129.330844 130.310735) (xy 129.182113 130.353945) (xy 129.182111 130.353945) (xy 129.182111 130.353946)
-				(xy 129.048805 130.432782) (xy 129.048796 130.432789) (xy 128.939289 130.542296) (xy 128.939282 130.542305)
-				(xy 128.860446 130.675611) (xy 128.860445 130.675613) (xy 128.854173 130.697203) (xy 128.817234 130.824347)
-				(xy 128.817234 130.824349) (xy 128.8145 130.859089) (xy 128.8145 131.357893) (xy 128.814501 131.357915)
-				(xy 128.817234 131.392652) (xy 128.817234 131.392655) (xy 128.817235 131.392656) (xy 128.860445 131.541387)
-				(xy 128.861975 131.543974) (xy 128.939282 131.674694) (xy 128.939289 131.674703) (xy 129.048796 131.78421)
-				(xy 129.048805 131.784217) (xy 129.060498 131.791132) (xy 129.182113 131.863055) (xy 129.330844 131.906265)
-				(xy 129.365595 131.909) (xy 129.714404 131.908999) (xy 129.749156 131.906265) (xy 129.897887 131.863055)
-				(xy 130.031198 131.784215) (xy 130.070093 131.74532) (xy 130.131416 131.711834) (xy 130.157775 131.709)
-				(xy 131.812831 131.709) (xy 131.812847 131.709001) (xy 131.820443 131.709001) (xy 131.978554 131.709001)
-				(xy 131.978557 131.709001) (xy 132.131285 131.668077) (xy 132.181404 131.639139) (xy 132.268216 131.58902)
-				(xy 132.38002 131.477216) (xy 132.380021 131.477213) (xy 132.515822 131.341412) (xy 132.577142 131.30793)
-				(xy 132.646834 131.312914) (xy 132.702767 131.354786) (xy 132.727184 131.42025) (xy 132.7275 131.429096)
-				(xy 132.7275 131.960664) (xy 132.707815 132.027703) (xy 132.691181 132.048345) (xy 132.396174 132.343351)
-				(xy 132.396174 132.343352) (xy 132.396172 132.343354) (xy 132.362145 132.390188) (xy 132.280476 132.502594)
-				(xy 132.261267 132.540295) (xy 132.213292 132.591091) (xy 132.150782 132.608) (xy 130.157775 132.608)
-				(xy 130.090736 132.588315) (xy 130.070093 132.57168) (xy 130.031203 132.532789) (xy 130.031194 132.532782)
-				(xy 129.923908 132.469334) (xy 129.897887 132.453945) (xy 129.749156 132.410735) (xy 129.749153 132.410734)
-				(xy 129.749151 132.410734) (xy 129.718395 132.408314) (xy 129.714405 132.408) (xy 129.714404 132.408)
-				(xy 129.365606 132.408) (xy 129.365584 132.408001) (xy 129.330847 132.410734) (xy 129.303576 132.418657)
-				(xy 129.182113 132.453945) (xy 129.182111 132.453945) (xy 129.182111 132.453946) (xy 129.048805 132.532782)
-				(xy 129.048796 132.532789) (xy 128.939289 132.642296) (xy 128.939282 132.642305) (xy 128.862024 132.772943)
-				(xy 128.860445 132.775613) (xy 128.827372 132.88945) (xy 128.817234 132.924347) (xy 128.817234 132.924349)
-				(xy 128.8145 132.959089) (xy 128.8145 133.457893) (xy 128.814501 133.457915) (xy 128.817234 133.492652)
-				(xy 128.817234 133.492655) (xy 128.817235 133.492656) (xy 128.860445 133.641387) (xy 128.886253 133.685026)
-				(xy 128.939282 133.774694) (xy 128.939289 133.774703) (xy 129.048796 133.88421) (xy 129.0488 133.884213)
-				(xy 129.048802 133.884215) (xy 129.182113 133.963055) (xy 129.330844 134.006265) (xy 129.365595 134.009)
-				(xy 129.714404 134.008999) (xy 129.749156 134.006265) (xy 129.897887 133.963055) (xy 130.031198 133.884215)
-				(xy 130.070093 133.84532) (xy 130.131416 133.811834) (xy 130.157775 133.809) (xy 131.9755 133.809)
-				(xy 132.042539 133.828685) (xy 132.088294 133.881489) (xy 132.0995 133.933) (xy 132.0995 135.840922)
-				(xy 132.13029 136.035326) (xy 132.191117 136.222529) (xy 132.192557 136.226004) (xy 132.20002 136.295474)
-				(xy 132.168741 136.357951) (xy 132.112588 136.392524) (xy 131.989604 136.428254) (xy 131.989603 136.428255)
-				(xy 131.848137 136.511917) (xy 131.848129 136.511923) (xy 131.731923 136.628129) (xy 131.731917 136.628137)
-				(xy 131.648255 136.769603) (xy 131.648254 136.769606) (xy 131.602354 136.927595) (xy 131.564748 136.986481)
-				(xy 131.501275 137.015687) (xy 131.483278 137.017) (xy 129.281597 137.017) (xy 129.214558 136.997315)
-				(xy 129.193916 136.980681) (xy 127.636819 135.423584) (xy 127.603334 135.362261) (xy 127.6005 135.335903)
-				(xy 127.6005 125.142943) (xy 127.595826 125.125502) (xy 127.595825 125.125498) (xy 127.594831 125.121789)
-				(xy 127.582687 125.076465) (xy 127.559577 124.990216) (xy 127.540304 124.956834) (xy 127.480524 124.85329)
-				(xy 127.480521 124.853286) (xy 127.48052 124.853284) (xy 127.368716 124.74148) (xy 127.368715 124.741479)
-				(xy 127.364385 124.737149) (xy 127.364374 124.737139) (xy 124.839415 122.21218) (xy 124.80593 122.150857)
-				(xy 124.810914 122.081165) (xy 124.852786 122.025232) (xy 124.91825 122.000815) (xy 124.927096 122.000499)
-				(xy 125.125871 122.000499) (xy 125.125872 122.000499) (xy 125.185483 121.994091) (xy 125.320331 121.943796)
-				(xy 125.435546 121.857546) (xy 125.521796 121.742331) (xy 125.572091 121.607483) (xy 125.5785 121.547873)
-				(xy 125.578499 120.631095) (xy 125.598183 120.564057) (xy 125.650987 120.518302) (xy 125.720146 120.508358)
-				(xy 125.783702 120.537383) (xy 125.79018 120.543415) (xy 127.277139 122.030374) (xy 127.277149 122.030385)
-				(xy 127.281479 122.034715) (xy 127.28148 122.034716) (xy 127.393284 122.14652) (xy 127.393286 122.146521)
-				(xy 127.39329 122.146524) (xy 127.530209 122.225573) (xy 127.530216 122.225577) (xy 127.642019 122.255534)
-				(xy 127.682942 122.2665) (xy 127.682943 122.2665) (xy 130.969278 122.2665) (xy 131.036317 122.286185)
-				(xy 131.082072 122.338989) (xy 131.088354 122.355905) (xy 131.134254 122.513893) (xy 131.134255 122.513896)
-				(xy 131.217917 122.655362) (xy 131.217923 122.65537) (xy 131.24918 122.686626) (xy 131.282666 122.747948)
-				(xy 131.2855 122.774308) (xy 131.2855 123.076769) (xy 131.265815 123.143808) (xy 131.249182 123.16445)
-				(xy 131.144787 123.268845) (xy 131.052687 123.418163) (xy 131.052685 123.418168) (xy 131.052615 123.41838)
-				(xy 130.997501 123.584703) (xy 130.997501 123.584704) (xy 130.9975 123.584704) (xy 130.987 123.687483)
-				(xy 130.987 124.687501) (xy 130.987001 124.687519) (xy 130.9975 124.790296) (xy 130.997501 124.790299)
-				(xy 131.040637 124.920473) (xy 131.052686 124.956834) (xy 131.144788 125.106156) (xy 131.268844 125.230212)
-				(xy 131.418166 125.322314) (xy 131.584703 125.377499) (xy 131.687491 125.388) (xy 132.312508 125.387999)
-				(xy 132.312516 125.387998) (xy 132.312519 125.387998) (xy 132.368802 125.382248) (xy 132.415297 125.377499)
-				(xy 132.581834 125.322314) (xy 132.731156 125.230212) (xy 132.825175 125.136192) (xy 132.886494 125.10271)
-				(xy 132.956186 125.107694) (xy 133.000534 125.136195) (xy 133.094154 125.229815) (xy 133.243375 125.321856)
-				(xy 133.24338 125.321858) (xy 133.409802 125.377005) (xy 133.409809 125.377006) (xy 133.512519 125.387499)
-				(xy 134.075 125.387499) (xy 134.137472 125.387499) (xy 134.137486 125.387498) (xy 134.240197 125.377005)
-				(xy 134.406619 125.321858) (xy 134.406624 125.321856) (xy 134.555845 125.229815) (xy 134.679815 125.105845)
-				(xy 134.771856 124.956624) (xy 134.771858 124.956619) (xy 134.827005 124.790197) (xy 134.827006 124.79019)
-				(xy 134.837499 124.687486) (xy 134.8375 124.687473) (xy 134.8375 124.4375) (xy 134.075 124.4375)
-				(xy 134.075 125.387499) (xy 133.512519 125.387499) (xy 133.574999 125.387498) (xy 133.575 125.387498)
-				(xy 133.575 123.0335) (xy 133.572319 123.030819) (xy 133.538834 122.969496) (xy 133.536 122.943138)
-				(xy 133.536 122.8575) (xy 134.036 122.8575) (xy 134.038681 122.860181) (xy 134.072166 122.921504)
+				(xy 132.814293 128.032209) (xy 132.81429 128.032219) (xy 132.758537 128.240295) (xy 132.756597 128.247534)
+				(xy 132.756594 128.247547) (xy 132.727501 128.468533) (xy 132.7275 128.468549) (xy 132.7275 128.69145)
+				(xy 132.727501 128.691466) (xy 132.756594 128.912452) (xy 132.756595 128.912457) (xy 132.756596 128.912463)
+				(xy 132.809727 129.11075) (xy 132.81429 129.127781) (xy 132.846051 129.204459) (xy 132.85352 129.273928)
+				(xy 132.822245 129.336407) (xy 132.819171 129.339592) (xy 131.687084 130.471681) (xy 131.625761 130.505166)
+				(xy 131.599403 130.508) (xy 130.157775 130.508) (xy 130.090736 130.488315) (xy 130.070093 130.47168)
+				(xy 130.031203 130.432789) (xy 130.031194 130.432782) (xy 129.917667 130.365643) (xy 129.897887 130.353945)
+				(xy 129.749156 130.310735) (xy 129.749153 130.310734) (xy 129.749151 130.310734) (xy 129.718395 130.308314)
+				(xy 129.714405 130.308) (xy 129.714404 130.308) (xy 129.365606 130.308) (xy 129.365584 130.308001)
+				(xy 129.330847 130.310734) (xy 129.330844 130.310735) (xy 129.182113 130.353945) (xy 129.182111 130.353945)
+				(xy 129.182111 130.353946) (xy 129.048805 130.432782) (xy 129.048796 130.432789) (xy 128.939289 130.542296)
+				(xy 128.939282 130.542305) (xy 128.860446 130.675611) (xy 128.860445 130.675613) (xy 128.854173 130.697203)
+				(xy 128.817234 130.824347) (xy 128.817234 130.824349) (xy 128.8145 130.859089) (xy 128.8145 131.357893)
+				(xy 128.814501 131.357915) (xy 128.817234 131.392652) (xy 128.817234 131.392655) (xy 128.817235 131.392656)
+				(xy 128.860445 131.541387) (xy 128.861975 131.543974) (xy 128.939282 131.674694) (xy 128.939289 131.674703)
+				(xy 129.048796 131.78421) (xy 129.048805 131.784217) (xy 129.060498 131.791132) (xy 129.182113 131.863055)
+				(xy 129.330844 131.906265) (xy 129.365595 131.909) (xy 129.714404 131.908999) (xy 129.749156 131.906265)
+				(xy 129.897887 131.863055) (xy 130.031198 131.784215) (xy 130.070093 131.74532) (xy 130.131416 131.711834)
+				(xy 130.157775 131.709) (xy 131.812831 131.709) (xy 131.812847 131.709001) (xy 131.820443 131.709001)
+				(xy 131.978554 131.709001) (xy 131.978557 131.709001) (xy 132.131285 131.668077) (xy 132.181404 131.639139)
+				(xy 132.268216 131.58902) (xy 132.38002 131.477216) (xy 132.380021 131.477213) (xy 132.515822 131.341412)
+				(xy 132.577142 131.30793) (xy 132.646834 131.312914) (xy 132.702767 131.354786) (xy 132.727184 131.42025)
+				(xy 132.7275 131.429096) (xy 132.7275 131.960664) (xy 132.707815 132.027703) (xy 132.691181 132.048345)
+				(xy 132.396174 132.343351) (xy 132.396174 132.343352) (xy 132.396172 132.343354) (xy 132.362145 132.390188)
+				(xy 132.280476 132.502594) (xy 132.261267 132.540295) (xy 132.213292 132.591091) (xy 132.150782 132.608)
+				(xy 130.157775 132.608) (xy 130.090736 132.588315) (xy 130.070093 132.57168) (xy 130.031203 132.532789)
+				(xy 130.031194 132.532782) (xy 129.923908 132.469334) (xy 129.897887 132.453945) (xy 129.749156 132.410735)
+				(xy 129.749153 132.410734) (xy 129.749151 132.410734) (xy 129.718395 132.408314) (xy 129.714405 132.408)
+				(xy 129.714404 132.408) (xy 129.365606 132.408) (xy 129.365584 132.408001) (xy 129.330847 132.410734)
+				(xy 129.303576 132.418657) (xy 129.182113 132.453945) (xy 129.182111 132.453945) (xy 129.182111 132.453946)
+				(xy 129.048805 132.532782) (xy 129.048796 132.532789) (xy 128.939289 132.642296) (xy 128.939282 132.642305)
+				(xy 128.862024 132.772943) (xy 128.860445 132.775613) (xy 128.827372 132.88945) (xy 128.817234 132.924347)
+				(xy 128.817234 132.924349) (xy 128.8145 132.959089) (xy 128.8145 133.457893) (xy 128.814501 133.457915)
+				(xy 128.817234 133.492652) (xy 128.817234 133.492655) (xy 128.817235 133.492656) (xy 128.860445 133.641387)
+				(xy 128.886253 133.685026) (xy 128.939282 133.774694) (xy 128.939289 133.774703) (xy 129.048796 133.88421)
+				(xy 129.0488 133.884213) (xy 129.048802 133.884215) (xy 129.182113 133.963055) (xy 129.330844 134.006265)
+				(xy 129.365595 134.009) (xy 129.714404 134.008999) (xy 129.749156 134.006265) (xy 129.897887 133.963055)
+				(xy 130.031198 133.884215) (xy 130.070093 133.84532) (xy 130.131416 133.811834) (xy 130.157775 133.809)
+				(xy 131.9755 133.809) (xy 132.042539 133.828685) (xy 132.088294 133.881489) (xy 132.0995 133.933)
+				(xy 132.0995 135.840922) (xy 132.13029 136.035326) (xy 132.191117 136.222529) (xy 132.192557 136.226004)
+				(xy 132.20002 136.295474) (xy 132.168741 136.357951) (xy 132.112588 136.392524) (xy 131.989604 136.428254)
+				(xy 131.989603 136.428255) (xy 131.848137 136.511917) (xy 131.848129 136.511923) (xy 131.731923 136.628129)
+				(xy 131.731917 136.628137) (xy 131.648255 136.769603) (xy 131.648254 136.769606) (xy 131.602354 136.927595)
+				(xy 131.564748 136.986481) (xy 131.501275 137.015687) (xy 131.483278 137.017) (xy 129.281597 137.017)
+				(xy 129.214558 136.997315) (xy 129.193916 136.980681) (xy 127.636819 135.423584) (xy 127.603334 135.362261)
+				(xy 127.6005 135.335903) (xy 127.6005 125.142943) (xy 127.595826 125.125502) (xy 127.595825 125.125498)
+				(xy 127.594831 125.121789) (xy 127.582687 125.076465) (xy 127.559577 124.990216) (xy 127.540304 124.956834)
+				(xy 127.480524 124.85329) (xy 127.480521 124.853286) (xy 127.48052 124.853284) (xy 127.368716 124.74148)
+				(xy 127.368715 124.741479) (xy 127.364385 124.737149) (xy 127.364374 124.737139) (xy 124.839415 122.21218)
+				(xy 124.80593 122.150857) (xy 124.810914 122.081165) (xy 124.852786 122.025232) (xy 124.91825 122.000815)
+				(xy 124.927096 122.000499) (xy 125.125871 122.000499) (xy 125.125872 122.000499) (xy 125.185483 121.994091)
+				(xy 125.320331 121.943796) (xy 125.435546 121.857546) (xy 125.521796 121.742331) (xy 125.572091 121.607483)
+				(xy 125.5785 121.547873) (xy 125.578499 120.631095) (xy 125.598183 120.564057) (xy 125.650987 120.518302)
+				(xy 125.720146 120.508358) (xy 125.783702 120.537383) (xy 125.79018 120.543415) (xy 127.277139 122.030374)
+				(xy 127.277149 122.030385) (xy 127.281479 122.034715) (xy 127.28148 122.034716) (xy 127.393284 122.14652)
+				(xy 127.393286 122.146521) (xy 127.39329 122.146524) (xy 127.530209 122.225573) (xy 127.530216 122.225577)
+				(xy 127.642019 122.255534) (xy 127.682942 122.2665) (xy 127.682943 122.2665) (xy 130.969278 122.2665)
+				(xy 131.036317 122.286185) (xy 131.082072 122.338989) (xy 131.088354 122.355905) (xy 131.134254 122.513893)
+				(xy 131.134255 122.513896) (xy 131.217917 122.655362) (xy 131.217923 122.65537) (xy 131.24918 122.686626)
+				(xy 131.282666 122.747948) (xy 131.2855 122.774308) (xy 131.2855 123.076769) (xy 131.265815 123.143808)
+				(xy 131.249182 123.16445) (xy 131.144787 123.268845) (xy 131.052687 123.418163) (xy 131.052685 123.418168)
+				(xy 131.052615 123.41838) (xy 130.997501 123.584703) (xy 130.997501 123.584704) (xy 130.9975 123.584704)
+				(xy 130.987 123.687483) (xy 130.987 124.687501) (xy 130.987001 124.687519) (xy 130.9975 124.790296)
+				(xy 130.997501 124.790299) (xy 131.040637 124.920473) (xy 131.052686 124.956834) (xy 131.144788 125.106156)
+				(xy 131.268844 125.230212) (xy 131.418166 125.322314) (xy 131.584703 125.377499) (xy 131.687491 125.388)
+				(xy 132.312508 125.387999) (xy 132.312516 125.387998) (xy 132.312519 125.387998) (xy 132.380652 125.381038)
+				(xy 132.415297 125.377499) (xy 132.581834 125.322314) (xy 132.731156 125.230212) (xy 132.825175 125.136192)
+				(xy 132.886494 125.10271) (xy 132.956186 125.107694) (xy 133.000534 125.136195) (xy 133.094154 125.229815)
+				(xy 133.243375 125.321856) (xy 133.24338 125.321858) (xy 133.409802 125.377005) (xy 133.409809 125.377006)
+				(xy 133.512519 125.387499) (xy 134.075 125.387499) (xy 134.137472 125.387499) (xy 134.137486 125.387498)
+				(xy 134.240197 125.377005) (xy 134.406619 125.321858) (xy 134.406624 125.321856) (xy 134.555845 125.229815)
+				(xy 134.679815 125.105845) (xy 134.771856 124.956624) (xy 134.771858 124.956619) (xy 134.827005 124.790197)
+				(xy 134.827006 124.79019) (xy 134.837499 124.687486) (xy 134.8375 124.687473) (xy 134.8375 124.4375)
+				(xy 134.075 124.4375) (xy 134.075 125.387499) (xy 133.512519 125.387499) (xy 133.574999 125.387498)
+				(xy 133.575 125.387498) (xy 133.575 123.0335) (xy 133.572319 123.030819) (xy 133.538834 122.969496)
+				(xy 133.536 122.943138) (xy 133.536 122.8575) (xy 134.036 122.8575) (xy 134.038681 122.860181) (xy 134.072166 122.921504)
 				(xy 134.075 122.947862) (xy 134.075 123.9375) (xy 134.837499 123.9375) (xy 134.837499 123.687528)
 				(xy 134.837498 123.687513) (xy 134.827005 123.584802) (xy 134.771858 123.41838) (xy 134.771856 123.418375)
 				(xy 134.679815 123.269154) (xy 134.555845 123.145184) (xy 134.406624 123.053143) (xy 134.406619 123.053141)

@@ -6952,6 +6952,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 59.69 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 59.69 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c17ed9a9-626b-40f3-887e-369ceb3467de")
 		)
@@ -7024,6 +7042,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 73.66 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2296"
+			(at 73.66 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 73.66 161.29 0)
 			(effects
 				(font
@@ -7109,6 +7145,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2296"
+			(at 73.66 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 73.66 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2cae4596-ccf0-4915-8d5c-a111c037fefd")
 		)
@@ -7175,6 +7229,24 @@
 		)
 		(property "Description" "6.3A Id, 20V Vds, 21mOhm Rds, N-Channel StrongIRFET Power MOSFET, SOT-23"
 			(at 102.87 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C53550"
+			(at 104.14 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 104.14 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7254,6 +7326,24 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 180.34 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2296"
+			(at 180.34 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 180.34 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7341,6 +7431,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 220.98 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C191023"
+			(at 220.98 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 220.98 91.44 0)
 			(effects
 				(font
@@ -7482,6 +7590,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C28233"
+			(at 118.11 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 118.11 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1ced5f26-9eb8-4178-9685-2b824f8440ef")
 		)
@@ -7543,6 +7669,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 228.6 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C124375"
+			(at 228.6 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "90"
 			(at 228.6 142.24 0)
 			(effects
 				(font
@@ -7752,6 +7896,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C17737"
+			(at 111.76 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 111.76 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c73a68b8-5ca1-4c93-9b3d-1dbcc79cbdde")
 		)
@@ -7811,6 +7973,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 187.96 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C17414"
+			(at 187.96 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 187.96 72.39 0)
 			(effects
 				(font
@@ -7888,6 +8068,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C17737"
+			(at 111.76 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 111.76 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cf88cfc1-6f76-4a49-9b8f-a38ab77386b8")
 		)
@@ -7951,6 +8149,24 @@
 		)
 		(property "Description" "3 pin buzzer coil (autotransformer)"
 			(at 57.404 39.116 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 59.69 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 59.69 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8031,6 +8247,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 59.69 20.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 59.69 20.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "857dc7ac-1711-461c-8b4d-e9bc7642c917")
 		)
@@ -8102,6 +8336,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C149504"
+			(at 201.93 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 201.93 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a9418421-a7a2-4206-abbf-d5813e34ee5f")
 		)
@@ -8162,6 +8414,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 118.11 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C28233"
+			(at 118.11 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 118.11 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8313,6 +8583,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2296"
+			(at 73.66 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 73.66 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b84b7a0d-157e-46a1-bae7-ed18bc809810")
 		)
@@ -8374,6 +8662,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 82.55 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C17630"
+			(at 82.55 181.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 82.55 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8536,6 +8842,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C191023"
+			(at 218.44 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 218.44 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "42000523-5f51-404e-aeea-686ac042423d")
 		)
@@ -8661,6 +8985,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 154.94 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 154.94 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 154.94 77.47 0)
 			(effects
 				(font
@@ -8860,6 +9202,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C17630"
+			(at 82.55 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 82.55 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a765044e-232d-43c9-9fae-94f787c60eff")
 		)
@@ -8926,6 +9286,24 @@
 		)
 		(property "Description" "6.3A Id, 20V Vds, 21mOhm Rds, N-Channel StrongIRFET Power MOSFET, SOT-23"
 			(at 102.87 185.166 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C53550"
+			(at 104.14 180.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 104.14 180.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9009,6 +9387,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C53550"
+			(at 104.14 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 104.14 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "579a6a6f-8355-45bc-812d-80948b49e4eb")
 		)
@@ -9072,6 +9468,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 45.72 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C131337"
+			(at 45.72 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
 			(at 45.72 156.21 0)
 			(effects
 				(font
@@ -9345,6 +9759,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C17630"
+			(at 82.55 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 82.55 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fa5a207c-04db-44e8-b423-9f32e0e63578")
 		)
@@ -9405,6 +9837,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 118.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C28233"
+			(at 118.11 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 118.11 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9485,6 +9935,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C53550"
+			(at 104.14 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 104.14 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "933012c9-b561-447a-86ad-d4d1f58e1f61")
 		)
@@ -9556,6 +10024,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C131337"
+			(at 45.72 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 45.72 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "abd04652-8ada-45f3-9eb7-ba449abcd943")
 		)
@@ -9619,6 +10105,24 @@
 		)
 		(property "Description" "3 pin buzzer coil (autotransformer)"
 			(at 57.404 181.356 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 59.69 181.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 59.69 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9832,6 +10336,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C53550"
+			(at 207.01 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 207.01 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "55a4f03b-77d0-457d-9521-e693dbd059a3")
 		)
@@ -9896,6 +10418,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 82.55 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C17630"
+			(at 82.55 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 82.55 140.97 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9980,6 +10520,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2296"
+			(at 73.66 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 73.66 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "49c04d8a-927d-4b51-a3a7-1d81c5b2a917")
 		)
@@ -10041,6 +10599,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 149.86 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C13585"
+			(at 149.86 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 149.86 25.4 0)
 			(effects
 				(font
@@ -10183,6 +10759,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C28233"
+			(at 118.11 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 118.11 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d655f58b-3b03-471b-af24-955b2fd32447")
 		)
@@ -10205,7 +10799,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5d73d1e7-280c-41a6-97c8-4ff041ea67fb")
 		(property "Reference" "J12"
 			(at 234.95 78.7399 0)
@@ -10244,6 +10838,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 233.68 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C5481312"
+			(at 233.68 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 233.68 81.28 0)
 			(effects
 				(font
@@ -10320,6 +10932,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C131337"
+			(at 45.72 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 45.72 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "aa801212-d433-42ef-87d3-c3e5e977f596")
 		)
@@ -10380,6 +11010,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 45.72 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C131337"
+			(at 45.72 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
 			(at 45.72 34.29 0)
 			(effects
 				(font
@@ -10456,6 +11104,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C149504"
+			(at 195.58 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 195.58 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c1f14235-1c44-47da-be2c-a03e85fb87fb")
 		)
@@ -10519,6 +11185,24 @@
 		)
 		(property "Description" "3 pin buzzer coil (autotransformer)"
 			(at 57.404 100.076 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 59.69 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 59.69 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10598,6 +11282,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C124375"
+			(at 231.14 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "90"
+			(at 231.14 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d8256594-6cf7-414d-959a-8d03bc12c25d")
 		)
@@ -10657,6 +11359,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 180.34 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C17630"
+			(at 180.34 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 180.34 67.31 0)
 			(effects
 				(font
@@ -10871,6 +11591,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C53550"
+			(at 104.14 160.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 104.14 160.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a6a5058b-29f8-49bc-9b37-358481427443")
 		)
@@ -10935,6 +11673,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 111.76 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C17737"
+			(at 111.76 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 111.76 82.55 0)
 			(effects
 				(font
@@ -11031,6 +11787,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C191023"
+			(at 215.9 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 215.9 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2b388312-31b9-4ed3-8348-16da313a25b6")
 		)
@@ -11100,6 +11874,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 73.66 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2296"
+			(at 73.66 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 73.66 100.33 0)
 			(effects
 				(font
@@ -11181,6 +11973,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C53550"
+			(at 104.14 19.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 104.14 19.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c0a61cb8-498b-444c-b93e-ed0c190945a1")
 		)
@@ -11244,6 +12054,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 45.72 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C131337"
+			(at 45.72 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
 			(at 45.72 74.93 0)
 			(effects
 				(font
@@ -11387,6 +12215,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C17737"
+			(at 111.76 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 111.76 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "881e2e3e-58b5-4946-8d61-901fdadb94c2")
 		)
@@ -11448,6 +12294,24 @@
 			)
 		)
 		(property "Description" "DC Barrel Jack with an internal switch"
+			(at 218.44 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C16214"
+			(at 218.44 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 218.44 55.88 0)
 			(effects
 				(font
@@ -11529,6 +12393,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 59.69 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 59.69 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fdb9a4e4-fd85-4574-9e14-5032e5e4babd")
 		)
@@ -11602,6 +12484,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C17630"
+			(at 139.7 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 139.7 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "35e5fbe4-9393-460b-a47b-015a1222ac34")
 		)
@@ -11663,6 +12563,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 82.55 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C17630"
+			(at 82.55 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 82.55 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11758,6 +12676,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C191023"
+			(at 220.98 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 220.98 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "313118f0-c6d1-4503-9dba-b04e7683a4e0")
 		)
@@ -11818,6 +12754,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 118.11 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C28233"
+			(at 118.11 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 118.11 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11980,7 +12934,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8d79ce37-22b3-4587-a324-1300be8c069c")
 		(property "Reference" "J18"
 			(at 229.87 148.5899 0)
@@ -12019,6 +12973,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 228.6 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C5481312"
+			(at 228.6 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 228.6 151.13 0)
 			(effects
 				(font
@@ -12096,6 +13068,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C124375"
+			(at 233.68 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "90"
+			(at 233.68 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b785e838-27a4-4c6a-a010-c651ad1903f0")
 		)
@@ -12156,6 +13146,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 45.72 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C131337"
+			(at 45.72 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
 			(at 45.72 115.57 0)
 			(effects
 				(font
@@ -12628,6 +13636,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C53550"
+			(at 209.55 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 209.55 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "30797f9c-1fc9-4e96-9e24-994caf4abb3b")
 		)
@@ -12692,6 +13718,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 82.55 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C17630"
+			(at 82.55 20.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 82.55 20.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12831,6 +13875,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C28233"
+			(at 118.11 160.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 118.11 160.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "599cfa52-b128-4953-a45c-c50412f2a429")
 		)
@@ -12891,6 +13953,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 201.93 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C149504"
+			(at 201.93 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 201.93 78.74 0)
 			(effects
 				(font
@@ -12967,6 +14047,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C17630"
+			(at 82.55 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 82.55 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "04e185b6-7b42-46ce-b0d1-86cfc13327a9")
 		)
@@ -13028,6 +14126,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 111.76 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C17737"
+			(at 111.76 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 111.76 123.19 0)
 			(effects
 				(font
@@ -13103,6 +14219,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C28233"
+			(at 118.11 19.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 118.11 19.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1d8fad6d-9ce4-4200-a9ca-c1c0b88df7ce")
 		)
@@ -13164,6 +14298,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 82.55 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C17630"
+			(at 82.55 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 82.55 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13248,6 +14400,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2296"
+			(at 73.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 73.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "990b1a11-e677-4641-a256-349f36b83da2")
 		)
@@ -13311,6 +14481,24 @@
 		)
 		(property "Description" "3 pin buzzer coil (autotransformer)"
 			(at 57.404 161.036 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 59.69 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 59.69 161.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13390,6 +14578,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C124375"
+			(at 233.68 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "90"
+			(at 233.68 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "55b2edaf-e147-4689-a099-bbd3b5a56e23")
 		)
@@ -13452,6 +14658,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 158.75 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C160390 "
+			(at 158.75 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 158.75 139.7 0)
 			(effects
 				(font
@@ -13543,6 +14767,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2296"
+			(at 73.66 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 73.66 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9074592b-1ce4-4c99-b4dc-6ea8a410bf23")
 		)
@@ -13612,6 +14854,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 73.66 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2296"
+			(at 73.66 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 73.66 80.01 0)
 			(effects
 				(font
@@ -13693,6 +14953,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C53550"
+			(at 104.14 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 104.14 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "83bba67f-206a-4d8f-a596-2dc48b567464")
 		)
@@ -13756,6 +15034,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
+			(at 176.53 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C49257"
+			(at 176.53 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "90"
 			(at 176.53 33.02 0)
 			(effects
 				(font
@@ -13840,6 +15136,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C53550"
+			(at 104.14 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 104.14 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8c9cd77f-5acb-4ddf-ad3f-35b87b2661b1")
 		)
@@ -13903,6 +15217,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 118.11 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C28233"
+			(at 118.11 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 118.11 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13982,6 +15314,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C53550"
+			(at 204.47 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 204.47 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "584e25cc-4123-44eb-80d3-bc2d776585ad")
 		)
@@ -14046,6 +15396,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 111.76 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C17737"
+			(at 111.76 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 111.76 143.51 0)
 			(effects
 				(font
@@ -14188,6 +15556,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C17630"
+			(at 82.55 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 82.55 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "da22e5dc-47a4-4a11-a2e9-9bd6da656cd1")
 		)
@@ -14323,6 +15709,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C131337"
+			(at 45.72 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 45.72 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "01a3ac0a-84e5-4772-85d8-9c6fdc9ecf77")
 		)
@@ -14393,6 +15797,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C17737"
+			(at 111.76 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 111.76 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a3872a25-0eba-4216-b890-5eba0e807175")
 		)
@@ -14453,6 +15875,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 45.72 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C131337"
+			(at 45.72 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
 			(at 45.72 15.24 0)
 			(effects
 				(font
@@ -14597,6 +16037,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C17737"
+			(at 111.76 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 111.76 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "699900d4-000b-43d0-a9ba-76546103746b")
 		)
@@ -14657,6 +16115,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 118.11 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C28233"
+			(at 118.11 180.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 118.11 180.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14862,6 +16338,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C149504"
+			(at 199.39 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 199.39 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c6271edb-8fd2-4d2a-b1a2-65242b5613eb")
 		)
@@ -14931,6 +16425,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 73.66 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2296"
+			(at 73.66 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 73.66 120.65 0)
 			(effects
 				(font
@@ -15011,6 +16523,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C53550"
+			(at 209.55 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 209.55 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0e81e42f-793a-4c74-92cf-59eb87549786")
 		)
@@ -15080,6 +16610,24 @@
 		)
 		(property "Description" "6.3A Id, 20V Vds, 21mOhm Rds, N-Channel StrongIRFET Power MOSFET, SOT-23"
 			(at 102.87 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C53550"
+			(at 104.14 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 104.14 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15167,6 +16715,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2296"
+			(at 143.51 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 143.51 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6c161a43-9761-46dc-aaf8-864be4ba6def")
 		)
@@ -15230,6 +16796,24 @@
 		)
 		(property "Description" "3 pin buzzer coil (autotransformer)"
 			(at 57.404 120.396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 59.69 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 59.69 120.65 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15310,6 +16894,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 59.69 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 59.69 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1bbc1420-0854-4b70-9664-028531511411")
 		)
@@ -15373,6 +16975,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 45.72 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C131337"
+			(at 45.72 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
 			(at 45.72 176.53 0)
 			(effects
 				(font
@@ -15450,6 +17070,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C17737"
+			(at 111.76 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 111.76 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "59d98b2b-86f3-4b0c-9786-97322d2b2e73")
 		)
@@ -15472,7 +17110,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f6ef96bb-44f2-4fe7-90f3-b50c663d1958")
 		(property "Reference" "J14"
 			(at 234.95 100.3299 0)
@@ -15519,6 +17157,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C5481312"
+			(at 233.68 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 233.68 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5cd7fece-a155-4d95-ba8d-876faeee4d07")
 		)
@@ -15541,7 +17197,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f70ed341-5b12-499e-a994-3c6f16c6db36")
 		(property "Reference" "J16"
 			(at 232.41 125.7299 0)
@@ -15580,6 +17236,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 231.14 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C5481312"
+			(at 231.14 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 231.14 128.27 0)
 			(effects
 				(font
@@ -15695,7 +17369,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645Sx43SMTR92"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TS-1088-xR020"
 			(at 182.88 86.36 0)
 			(effects
 				(font
@@ -15714,6 +17388,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 182.88 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C720477 "
+			(at 182.88 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" ""
 			(at 182.88 81.28 0)
 			(effects
 				(font

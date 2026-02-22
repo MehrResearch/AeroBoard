@@ -139,7 +139,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -242,7 +242,84 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_not_connected|1371600|533400|82d10cd4-7ba8-46f2-94a8-8a9d63cf3a5c|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "pin_not_connected|1371600|558800|7f1e11f9-dc11-41eb-8fac-4bfdc30d9542|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "pin_not_connected|1371600|609600|97462a24-7a6e-42b6-9509-a68033fb724a|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "pin_not_connected|1371600|635000|5c99c773-e828-4e7a-b379-62a76a276b7e|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "pin_not_connected|1371600|660400|2644938f-aad4-4ac2-9384-045595ddba5e|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "pin_not_connected|1371600|685800|615dcc4c-d2a5-47fe-bb0a-e75bddc92ab7|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "pin_not_connected|1371600|736600|5f6a796f-c97e-4971-ba0b-d5a47c76b604|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "pin_not_connected|1524000|1066800|7ee26e12-3c4d-4493-a4c2-4ed8030474b4|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "pin_not_connected|1574800|1066800|cc190a22-b5a4-4128-b71f-264d01dcd558|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "pin_not_connected|1727200|609600|30056c9c-fdda-4edd-b7ff-fb94e569da7e|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "pin_not_connected|1727200|660400|dbe8b1be-2560-4a84-9ac4-826599f9b562|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "pin_not_connected|1727200|685800|b93fe5e7-5058-4fe8-83ca-3473ea2a0ef9|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "pin_not_connected|1727200|812800|a4d1c30f-7ad0-44ec-99da-4a9c796953b1|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "pin_not_connected|1727200|863600|07581afc-67f2-49e8-b3b3-0904841eed21|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "pin_not_connected|1727200|889000|adff577e-00d1-4399-b6d1-f28279c1331b|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "pin_not_connected|2108200|558800|0e0ad9bc-35e9-4691-9428-ac4218cc2426|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "pin_not_driven|1524000|1066800|7ee26e12-3c4d-4493-a4c2-4ed8030474b4|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "pin_not_driven|1727200|609600|30056c9c-fdda-4edd-b7ff-fb94e569da7e|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1727200|635000|e8d24cc8-d81a-42e1-923f-9e3a1a1e193f|00000000-0000-0000-0000-000000000000|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|/9ae39ac3-55d8-4fda-a4e1-65daa7843834|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -575,7 +652,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -599,6 +676,18 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "JLCPCB Part #",
+          "name": "JLCPCB Part #",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "FT Rotation Offset",
+          "name": "FT Rotation Offset",
           "show": false
         }
       ],
