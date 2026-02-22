@@ -39,3 +39,6 @@ desktop.ini
 
 # 3D renders of assembled board
 aeroboard.step
+
+# Production files
+production/
