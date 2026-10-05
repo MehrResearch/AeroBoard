@@ -14,5 +14,5 @@ If you run into any issues, please feel free to [contact us](mailto:Hessam.Mehr@
 # Citing AeroBoard
 If you use AeroBoard, directly or as the basis for a new experimental setup, we would be grateful if the following publications could be cited. Independently, we would love to hear about your experience and any issues/ideas for improvement.
 
-* Wosik, J., Zhu, C. & M. Mehr, S. H. A framework for general-purpose chemical synthesis in the aerosol phase and its automated implementation in an open hardware platform. *ChemRxiv*, **2025** (DOI: [10.26434/chemrxiv-2025-mkmn0](https://doi.org/10.26434/chemrxiv-2025-mkmn0))
-* Mehr, S. H. M. Programmable real-time execution of scientific experiments using a domain specific language for the Raspberry Pi Pico. *TechRxiv*, **2025** (DOI: [10.36227/techrxiv.173896967.76043093/v1](https://doi.org/10.36227/techrxiv.173896967.76043093/v1))
+* Wosik, J., Zhu, C., Li, Z. & M. Mehr, S. H. Programmable aerosol chemistry coupled to chemical imaging establishes a new arena for automated chemical synthesis and discovery. *Digital Discovery*, **2025**, *4*, 2423-2430 (DOI: [10.1039/D5DD00100E](https://doi.org/10.1039/D5DD00100E))
+* Mehr, S. H. M. CtrlAer: Programmable real-time execution of scientific experiments using a domain specific language for the Raspberry Pi Pico/Pico 2. *SoftwareX*, **2025**, *30*, 102175 (DOI: [10.1016/j.softx.2025.102175](https://doi.org/10.1016/j.softx.2025.102175))
